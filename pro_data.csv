@@ -1,0 +1,1321 @@
+gameid,league,date,patch,side,position,teamname,champion,ban1,ban2,ban3,ban4,ban5,result
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Blue,top,DN SOOPers,Rumble,Jayce,Azir,Orianna,Ambessa,Nautilus,1
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Blue,jng,DN SOOPers,Wukong,Jayce,Azir,Orianna,Ambessa,Nautilus,1
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Blue,mid,DN SOOPers,Ahri,Jayce,Azir,Orianna,Ambessa,Nautilus,1
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Blue,bot,DN SOOPers,Corki,Jayce,Azir,Orianna,Ambessa,Nautilus,1
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Blue,sup,DN SOOPers,Pantheon,Jayce,Azir,Orianna,Ambessa,Nautilus,1
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Red,top,KT Rolster,K'Sante,Neeko,Vi,Sylas,Rakan,Aphelios,0
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Red,jng,KT Rolster,Malphite,Neeko,Vi,Sylas,Rakan,Aphelios,0
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Red,mid,KT Rolster,Taliyah,Neeko,Vi,Sylas,Rakan,Aphelios,0
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Red,bot,KT Rolster,Yunara,Neeko,Vi,Sylas,Rakan,Aphelios,0
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Red,sup,KT Rolster,Alistar,Neeko,Vi,Sylas,Rakan,Aphelios,0
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Blue,team,DN SOOPers,,Jayce,Azir,Orianna,Ambessa,Nautilus,1
+LOLTMNT03_337058,LCK,2026-01-14 08:13:43,16.01,Red,team,KT Rolster,,Neeko,Vi,Sylas,Rakan,Aphelios,0
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Blue,top,DN SOOPers,Sion,Jayce,Azir,Orianna,Jarvan IV,Nocturne,0
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Blue,jng,DN SOOPers,Dr. Mundo,Jayce,Azir,Orianna,Jarvan IV,Nocturne,0
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Blue,mid,DN SOOPers,Viktor,Jayce,Azir,Orianna,Jarvan IV,Nocturne,0
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Blue,bot,DN SOOPers,Ashe,Jayce,Azir,Orianna,Jarvan IV,Nocturne,0
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Blue,sup,DN SOOPers,Soraka,Jayce,Azir,Orianna,Jarvan IV,Nocturne,0
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Red,top,KT Rolster,Renekton,Neeko,Vi,Cassiopeia,Renata Glasc,Lulu,1
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Red,jng,KT Rolster,Sylas,Neeko,Vi,Cassiopeia,Renata Glasc,Lulu,1
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Red,mid,KT Rolster,Ryze,Neeko,Vi,Cassiopeia,Renata Glasc,Lulu,1
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Red,bot,KT Rolster,Lucian,Neeko,Vi,Cassiopeia,Renata Glasc,Lulu,1
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Red,sup,KT Rolster,Braum,Neeko,Vi,Cassiopeia,Renata Glasc,Lulu,1
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Blue,team,DN SOOPers,,Jayce,Azir,Orianna,Jarvan IV,Nocturne,0
+LOLTMNT03_337069,LCK,2026-01-14 09:06:16,16.01,Red,team,KT Rolster,,Neeko,Vi,Cassiopeia,Renata Glasc,Lulu,1
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Blue,top,KT Rolster,Rek'Sai,Vi,Neeko,Orianna,Nautilus,Leona,1
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Blue,jng,KT Rolster,Jarvan IV,Vi,Neeko,Orianna,Nautilus,Leona,1
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Blue,mid,KT Rolster,Zoe,Vi,Neeko,Orianna,Nautilus,Leona,1
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Blue,bot,KT Rolster,Aphelios,Vi,Neeko,Orianna,Nautilus,Leona,1
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Blue,sup,KT Rolster,Thresh,Vi,Neeko,Orianna,Nautilus,Leona,1
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Red,top,DN SOOPers,Ambessa,Poppy,Jayce,Azir,Akali,Mel,0
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Red,jng,DN SOOPers,Nocturne,Poppy,Jayce,Azir,Akali,Mel,0
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Red,mid,DN SOOPers,Aurora,Poppy,Jayce,Azir,Akali,Mel,0
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Red,bot,DN SOOPers,Ziggs,Poppy,Jayce,Azir,Akali,Mel,0
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Red,sup,DN SOOPers,Rell,Poppy,Jayce,Azir,Akali,Mel,0
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Blue,team,KT Rolster,,Vi,Neeko,Orianna,Nautilus,Leona,1
+LOLTMNT03_337081,LCK,2026-01-14 09:54:54,16.01,Red,team,DN SOOPers,,Poppy,Jayce,Azir,Akali,Mel,0
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Blue,top,Dplus Kia,Ambessa,Azir,Jayce,Orianna,Renekton,Kai'Sa,1
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Blue,jng,Dplus Kia,Jarvan IV,Azir,Jayce,Orianna,Renekton,Kai'Sa,1
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Blue,mid,Dplus Kia,Ryze,Azir,Jayce,Orianna,Renekton,Kai'Sa,1
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Blue,bot,Dplus Kia,Ezreal,Azir,Jayce,Orianna,Renekton,Kai'Sa,1
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Blue,sup,Dplus Kia,Karma,Azir,Jayce,Orianna,Renekton,Kai'Sa,1
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Red,top,HANJIN BRION,Rek'Sai,Qiyana,Malphite,Rumble,Bard,Lucian,0
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Red,jng,HANJIN BRION,Xin Zhao,Qiyana,Malphite,Rumble,Bard,Lucian,0
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Red,mid,HANJIN BRION,Taliyah,Qiyana,Malphite,Rumble,Bard,Lucian,0
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Red,bot,HANJIN BRION,Yunara,Qiyana,Malphite,Rumble,Bard,Lucian,0
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Red,sup,HANJIN BRION,Neeko,Qiyana,Malphite,Rumble,Bard,Lucian,0
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Blue,team,Dplus Kia,,Azir,Jayce,Orianna,Renekton,Kai'Sa,1
+LOLTMNT03_337109,LCK,2026-01-14 11:22:18,16.01,Red,team,HANJIN BRION,,Qiyana,Malphite,Rumble,Bard,Lucian,0
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Blue,top,Dplus Kia,Rumble,Azir,Jayce,Vi,Rakan,Nautilus,1
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Blue,jng,Dplus Kia,Pantheon,Azir,Jayce,Vi,Rakan,Nautilus,1
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Blue,mid,Dplus Kia,LeBlanc,Azir,Jayce,Vi,Rakan,Nautilus,1
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Blue,bot,Dplus Kia,Sivir,Azir,Jayce,Vi,Rakan,Nautilus,1
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Blue,sup,Dplus Kia,Bard,Azir,Jayce,Vi,Rakan,Nautilus,1
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Red,top,HANJIN BRION,K'Sante,Qiyana,Malphite,Akali,Lucian,Kalista,0
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Red,jng,HANJIN BRION,Nocturne,Qiyana,Malphite,Akali,Lucian,Kalista,0
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Red,mid,HANJIN BRION,Orianna,Qiyana,Malphite,Akali,Lucian,Kalista,0
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Red,bot,HANJIN BRION,Jhin,Qiyana,Malphite,Akali,Lucian,Kalista,0
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Red,sup,HANJIN BRION,Elise,Qiyana,Malphite,Akali,Lucian,Kalista,0
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Blue,team,Dplus Kia,,Azir,Jayce,Vi,Rakan,Nautilus,1
+LOLTMNT03_336084,LCK,2026-01-14 12:11:18,16.01,Red,team,HANJIN BRION,,Qiyana,Malphite,Akali,Lucian,Kalista,0
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Blue,top,Kiwoom DRX,Kennen,Rumble,Jayce,Poppy,K'Sante,Sion,0
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Blue,jng,Kiwoom DRX,Xin Zhao,Rumble,Jayce,Poppy,K'Sante,Sion,0
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Blue,mid,Kiwoom DRX,Orianna,Rumble,Jayce,Poppy,K'Sante,Sion,0
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Blue,bot,Kiwoom DRX,Yunara,Rumble,Jayce,Poppy,K'Sante,Sion,0
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Blue,sup,Kiwoom DRX,Alistar,Rumble,Jayce,Poppy,K'Sante,Sion,0
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Red,top,Gen.G,Renekton,Neeko,Malphite,Varus,Lulu,Bard,1
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Red,jng,Gen.G,Pantheon,Neeko,Malphite,Varus,Lulu,Bard,1
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Red,mid,Gen.G,Azir,Neeko,Malphite,Varus,Lulu,Bard,1
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Red,bot,Gen.G,Corki,Neeko,Malphite,Varus,Lulu,Bard,1
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Red,sup,Gen.G,Nami,Neeko,Malphite,Varus,Lulu,Bard,1
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Blue,team,Kiwoom DRX,,Rumble,Jayce,Poppy,K'Sante,Sion,0
+LOLTMNT03_336244,LCK,2026-01-15 08:05:23,16.01,Red,team,Gen.G,,Neeko,Malphite,Varus,Lulu,Bard,1
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Blue,top,Gen.G,Ambessa,Neeko,Sylas,Vi,Varus,Sivir,1
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Blue,jng,Gen.G,Wukong,Neeko,Sylas,Vi,Varus,Sivir,1
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Blue,mid,Gen.G,Ryze,Neeko,Sylas,Vi,Varus,Sivir,1
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Blue,bot,Gen.G,Ezreal,Neeko,Sylas,Vi,Varus,Sivir,1
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Blue,sup,Gen.G,Leona,Neeko,Sylas,Vi,Varus,Sivir,1
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Red,top,Kiwoom DRX,Sion,Rumble,Jayce,Malphite,Nautilus,Rakan,0
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Red,jng,Kiwoom DRX,Jarvan IV,Rumble,Jayce,Malphite,Nautilus,Rakan,0
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Red,mid,Kiwoom DRX,Cassiopeia,Rumble,Jayce,Malphite,Nautilus,Rakan,0
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Red,bot,Kiwoom DRX,Jhin,Rumble,Jayce,Malphite,Nautilus,Rakan,0
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Red,sup,Kiwoom DRX,Bard,Rumble,Jayce,Malphite,Nautilus,Rakan,0
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Blue,team,Gen.G,,Neeko,Sylas,Vi,Varus,Sivir,1
+LOLTMNT03_336246,LCK,2026-01-15 08:56:47,16.01,Red,team,Kiwoom DRX,,Rumble,Jayce,Malphite,Nautilus,Rakan,0
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Blue,top,Nongshim RedForce,Sion,Vi,Azir,Sylas,Ambessa,Dr. Mundo,0
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Blue,jng,Nongshim RedForce,Malphite,Vi,Azir,Sylas,Ambessa,Dr. Mundo,0
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Blue,mid,Nongshim RedForce,Taliyah,Vi,Azir,Sylas,Ambessa,Dr. Mundo,0
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Blue,bot,Nongshim RedForce,Aphelios,Vi,Azir,Sylas,Ambessa,Dr. Mundo,0
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Blue,sup,Nongshim RedForce,Karma,Vi,Azir,Sylas,Ambessa,Dr. Mundo,0
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Red,top,BNK FEARX,Rek'Sai,Rumble,Orianna,Jayce,Alistar,Neeko,1
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Red,jng,BNK FEARX,Nautilus,Rumble,Orianna,Jayce,Alistar,Neeko,1
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Red,mid,BNK FEARX,Ahri,Rumble,Orianna,Jayce,Alistar,Neeko,1
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Red,bot,BNK FEARX,Yunara,Rumble,Orianna,Jayce,Alistar,Neeko,1
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Red,sup,BNK FEARX,Lulu,Rumble,Orianna,Jayce,Alistar,Neeko,1
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Blue,team,Nongshim RedForce,,Vi,Azir,Sylas,Ambessa,Dr. Mundo,0
+LOLTMNT03_337298,LCK,2026-01-15 10:15:24,16.01,Red,team,BNK FEARX,,Rumble,Orianna,Jayce,Alistar,Neeko,1
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Blue,top,BNK FEARX,Kennen,Rumble,Jayce,Jarvan IV,Nocturne,Xin Zhao,1
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Blue,jng,BNK FEARX,Pantheon,Rumble,Jayce,Jarvan IV,Nocturne,Xin Zhao,1
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Blue,mid,BNK FEARX,Sylas,Rumble,Jayce,Jarvan IV,Nocturne,Xin Zhao,1
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Blue,bot,BNK FEARX,Ezreal,Rumble,Jayce,Jarvan IV,Nocturne,Xin Zhao,1
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Blue,sup,BNK FEARX,Neeko,Rumble,Jayce,Jarvan IV,Nocturne,Xin Zhao,1
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Red,top,Nongshim RedForce,Renekton,Vi,Azir,Ambessa,LeBlanc,Gnar,0
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Red,jng,Nongshim RedForce,Wukong,Vi,Azir,Ambessa,LeBlanc,Gnar,0
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Red,mid,Nongshim RedForce,Orianna,Vi,Azir,Ambessa,LeBlanc,Gnar,0
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Red,bot,Nongshim RedForce,Varus,Vi,Azir,Ambessa,LeBlanc,Gnar,0
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Red,sup,Nongshim RedForce,Alistar,Vi,Azir,Ambessa,LeBlanc,Gnar,0
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Blue,team,BNK FEARX,,Rumble,Jayce,Jarvan IV,Nocturne,Xin Zhao,1
+LOLTMNT03_337304,LCK,2026-01-15 11:14:42,16.01,Red,team,Nongshim RedForce,,Vi,Azir,Ambessa,LeBlanc,Gnar,0
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Blue,top,Dplus Kia,K'Sante,Azir,Orianna,Neeko,Varus,Jhin,1
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Blue,jng,Dplus Kia,Ambessa,Azir,Orianna,Neeko,Varus,Jhin,1
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Blue,mid,Dplus Kia,Ryze,Azir,Orianna,Neeko,Varus,Jhin,1
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Blue,bot,Dplus Kia,Yunara,Azir,Orianna,Neeko,Varus,Jhin,1
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Blue,sup,Dplus Kia,Lulu,Azir,Orianna,Neeko,Varus,Jhin,1
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Red,top,DN SOOPers,Rumble,Qiyana,Jayce,Cassiopeia,Jarvan IV,Nautilus,0
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Red,jng,DN SOOPers,Wukong,Qiyana,Jayce,Cassiopeia,Jarvan IV,Nautilus,0
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Red,mid,DN SOOPers,Taliyah,Qiyana,Jayce,Cassiopeia,Jarvan IV,Nautilus,0
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Red,bot,DN SOOPers,Corki,Qiyana,Jayce,Cassiopeia,Jarvan IV,Nautilus,0
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Red,sup,DN SOOPers,Nami,Qiyana,Jayce,Cassiopeia,Jarvan IV,Nautilus,0
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Blue,team,Dplus Kia,,Azir,Orianna,Neeko,Varus,Jhin,1
+LOLTMNT03_336495,LCK,2026-01-16 08:05:40,16.01,Red,team,DN SOOPers,,Qiyana,Jayce,Cassiopeia,Jarvan IV,Nautilus,0
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Blue,top,Dplus Kia,Gwen,Orianna,Azir,Akali,Ezreal,Sivir,1
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Blue,jng,Dplus Kia,Xin Zhao,Orianna,Azir,Akali,Ezreal,Sivir,1
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Blue,mid,Dplus Kia,Ekko,Orianna,Azir,Akali,Ezreal,Sivir,1
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Blue,bot,Dplus Kia,Varus,Orianna,Azir,Akali,Ezreal,Sivir,1
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Blue,sup,Dplus Kia,Rakan,Orianna,Azir,Akali,Ezreal,Sivir,1
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Red,top,DN SOOPers,Sion,Qiyana,Jayce,LeBlanc,Bard,Neeko,0
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Red,jng,DN SOOPers,Jarvan IV,Qiyana,Jayce,LeBlanc,Bard,Neeko,0
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Red,mid,DN SOOPers,Syndra,Qiyana,Jayce,LeBlanc,Bard,Neeko,0
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Red,bot,DN SOOPers,Ashe,Qiyana,Jayce,LeBlanc,Bard,Neeko,0
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Red,sup,DN SOOPers,Braum,Qiyana,Jayce,LeBlanc,Bard,Neeko,0
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Blue,team,Dplus Kia,,Orianna,Azir,Akali,Ezreal,Sivir,1
+LOLTMNT03_336502,LCK,2026-01-16 08:53:11,16.01,Red,team,DN SOOPers,,Qiyana,Jayce,LeBlanc,Bard,Neeko,0
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Blue,top,T1,Ambessa,Jayce,Azir,Varus,Rell,Nautilus,0
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Blue,jng,T1,Pantheon,Jayce,Azir,Varus,Rell,Nautilus,0
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Blue,mid,T1,Ryze,Jayce,Azir,Varus,Rell,Nautilus,0
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Blue,bot,T1,Lucian,Jayce,Azir,Varus,Rell,Nautilus,0
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Blue,sup,T1,Milio,Jayce,Azir,Varus,Rell,Nautilus,0
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Red,top,Hanwha Life Esports,Rumble,Malphite,Orianna,Yunara,Bard,Aphelios,1
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Red,jng,Hanwha Life Esports,Vi,Malphite,Orianna,Yunara,Bard,Aphelios,1
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Red,mid,Hanwha Life Esports,Taliyah,Malphite,Orianna,Yunara,Bard,Aphelios,1
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Red,bot,Hanwha Life Esports,Corki,Malphite,Orianna,Yunara,Bard,Aphelios,1
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Red,sup,Hanwha Life Esports,Alistar,Malphite,Orianna,Yunara,Bard,Aphelios,1
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Blue,team,T1,,Jayce,Azir,Varus,Rell,Nautilus,0
+LOLTMNT03_337590,LCK,2026-01-16 10:08:16,16.01,Red,team,Hanwha Life Esports,,Malphite,Orianna,Yunara,Bard,Aphelios,1
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Blue,top,Hanwha Life Esports,Gnar,Malphite,Orianna,Yunara,Galio,Sion,0
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Blue,jng,Hanwha Life Esports,Wukong,Malphite,Orianna,Yunara,Galio,Sion,0
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Blue,mid,Hanwha Life Esports,Aurora,Malphite,Orianna,Yunara,Galio,Sion,0
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Blue,bot,Hanwha Life Esports,Ziggs,Malphite,Orianna,Yunara,Galio,Sion,0
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Blue,sup,Hanwha Life Esports,Rakan,Malphite,Orianna,Yunara,Galio,Sion,0
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Red,top,T1,K'Sante,Jayce,Azir,Varus,Yone,Gwen,1
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Red,jng,T1,Xin Zhao,Jayce,Azir,Varus,Yone,Gwen,1
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Red,mid,T1,Sylas,Jayce,Azir,Varus,Yone,Gwen,1
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Red,bot,T1,Aphelios,Jayce,Azir,Varus,Yone,Gwen,1
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Red,sup,T1,Lulu,Jayce,Azir,Varus,Yone,Gwen,1
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Blue,team,Hanwha Life Esports,,Malphite,Orianna,Yunara,Galio,Sion,0
+LOLTMNT03_336511,LCK,2026-01-16 11:07:37,16.01,Red,team,T1,,Jayce,Azir,Varus,Yone,Gwen,1
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Blue,top,T1,Akali,Jayce,Varus,Rell,Renata Glasc,Ashe,1
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Blue,jng,T1,Nocturne,Jayce,Varus,Rell,Renata Glasc,Ashe,1
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Blue,mid,T1,Orianna,Jayce,Varus,Rell,Renata Glasc,Ashe,1
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Blue,bot,T1,Sivir,Jayce,Varus,Rell,Renata Glasc,Ashe,1
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Blue,sup,T1,Bard,Jayce,Varus,Rell,Renata Glasc,Ashe,1
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Red,top,Hanwha Life Esports,Rek'Sai,Malphite,Poppy,Yunara,Ezreal,Gwen,0
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Red,jng,Hanwha Life Esports,Jarvan IV,Malphite,Poppy,Yunara,Ezreal,Gwen,0
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Red,mid,Hanwha Life Esports,Azir,Malphite,Poppy,Yunara,Ezreal,Gwen,0
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Red,bot,Hanwha Life Esports,Jhin,Malphite,Poppy,Yunara,Ezreal,Gwen,0
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Red,sup,Hanwha Life Esports,Nautilus,Malphite,Poppy,Yunara,Ezreal,Gwen,0
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Blue,team,T1,,Jayce,Varus,Rell,Renata Glasc,Ashe,1
+LOLTMNT03_337603,LCK,2026-01-16 11:56:34,16.01,Red,team,Hanwha Life Esports,,Malphite,Poppy,Yunara,Ezreal,Gwen,0
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Blue,top,BNK FEARX,Renekton,Neeko,Malphite,Gwen,Poppy,Yunara,1
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Blue,jng,BNK FEARX,Pantheon,Neeko,Malphite,Gwen,Poppy,Yunara,1
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Blue,mid,BNK FEARX,Azir,Neeko,Malphite,Gwen,Poppy,Yunara,1
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Blue,bot,BNK FEARX,Xayah,Neeko,Malphite,Gwen,Poppy,Yunara,1
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Blue,sup,BNK FEARX,Rakan,Neeko,Malphite,Gwen,Poppy,Yunara,1
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Red,top,HANJIN BRION,Gnar,Jayce,Rumble,Sion,Bard,Lucian,0
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Red,jng,HANJIN BRION,Vi,Jayce,Rumble,Sion,Bard,Lucian,0
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Red,mid,HANJIN BRION,Taliyah,Jayce,Rumble,Sion,Bard,Lucian,0
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Red,bot,HANJIN BRION,Ezreal,Jayce,Rumble,Sion,Bard,Lucian,0
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Red,sup,HANJIN BRION,Leona,Jayce,Rumble,Sion,Bard,Lucian,0
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Blue,team,BNK FEARX,,Neeko,Malphite,Gwen,Poppy,Yunara,1
+LOLTMNT03_336667,LCK,2026-01-17 08:05:53,16.01,Red,team,HANJIN BRION,,Jayce,Rumble,Sion,Bard,Lucian,0
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Blue,top,BNK FEARX,Aatrox,Rumble,Orianna,Jayce,Corki,Aphelios,0
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Blue,jng,BNK FEARX,Xin Zhao,Rumble,Orianna,Jayce,Corki,Aphelios,0
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Blue,mid,BNK FEARX,Galio,Rumble,Orianna,Jayce,Corki,Aphelios,0
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Blue,bot,BNK FEARX,Yunara,Rumble,Orianna,Jayce,Corki,Aphelios,0
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Blue,sup,BNK FEARX,Lulu,Rumble,Orianna,Jayce,Corki,Aphelios,0
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Red,top,HANJIN BRION,Ambessa,Neeko,Jarvan IV,Malphite,Cassiopeia,Syndra,1
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Red,jng,HANJIN BRION,Trundle,Neeko,Jarvan IV,Malphite,Cassiopeia,Syndra,1
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Red,mid,HANJIN BRION,Ryze,Neeko,Jarvan IV,Malphite,Cassiopeia,Syndra,1
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Red,bot,HANJIN BRION,Varus,Neeko,Jarvan IV,Malphite,Cassiopeia,Syndra,1
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Red,sup,HANJIN BRION,Nautilus,Neeko,Jarvan IV,Malphite,Cassiopeia,Syndra,1
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Blue,team,BNK FEARX,,Rumble,Orianna,Jayce,Corki,Aphelios,0
+LOLTMNT03_337754,LCK,2026-01-17 09:01:27,16.01,Red,team,HANJIN BRION,,Neeko,Jarvan IV,Malphite,Cassiopeia,Syndra,1
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Blue,top,HANJIN BRION,Sion,Jayce,Rumble,Neeko,Kalista,Aphelios,0
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Blue,jng,HANJIN BRION,Poppy,Jayce,Rumble,Neeko,Kalista,Aphelios,0
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Blue,mid,HANJIN BRION,Syndra,Jayce,Rumble,Neeko,Kalista,Aphelios,0
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Blue,bot,HANJIN BRION,Lucian,Jayce,Rumble,Neeko,Kalista,Aphelios,0
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Blue,sup,HANJIN BRION,Braum,Jayce,Rumble,Neeko,Kalista,Aphelios,0
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Red,top,BNK FEARX,Rek'Sai,Malphite,Jarvan IV,Gwen,Akali,LeBlanc,1
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Red,jng,BNK FEARX,Wukong,Malphite,Jarvan IV,Gwen,Akali,LeBlanc,1
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Red,mid,BNK FEARX,Orianna,Malphite,Jarvan IV,Gwen,Akali,LeBlanc,1
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Red,bot,BNK FEARX,Kai'Sa,Malphite,Jarvan IV,Gwen,Akali,LeBlanc,1
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Red,sup,BNK FEARX,Alistar,Malphite,Jarvan IV,Gwen,Akali,LeBlanc,1
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Blue,team,HANJIN BRION,,Jayce,Rumble,Neeko,Kalista,Aphelios,0
+LOLTMNT03_337756,LCK,2026-01-17 09:47:06,16.01,Red,team,BNK FEARX,,Malphite,Jarvan IV,Gwen,Akali,LeBlanc,1
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Blue,top,KT Rolster,K'Sante,Jayce,Azir,Ambessa,Bard,Poppy,0
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Blue,jng,KT Rolster,Vi,Jayce,Azir,Ambessa,Bard,Poppy,0
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Blue,mid,KT Rolster,Taliyah,Jayce,Azir,Ambessa,Bard,Poppy,0
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Blue,bot,KT Rolster,Ezreal,Jayce,Azir,Ambessa,Bard,Poppy,0
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Blue,sup,KT Rolster,Alistar,Jayce,Azir,Ambessa,Bard,Poppy,0
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Red,top,Gen.G,Rumble,Neeko,Malphite,Orianna,Sivir,Ziggs,1
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Red,jng,Gen.G,Xin Zhao,Neeko,Malphite,Orianna,Sivir,Ziggs,1
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Red,mid,Gen.G,Yone,Neeko,Malphite,Orianna,Sivir,Ziggs,1
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Red,bot,Gen.G,Varus,Neeko,Malphite,Orianna,Sivir,Ziggs,1
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Red,sup,Gen.G,Rakan,Neeko,Malphite,Orianna,Sivir,Ziggs,1
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Blue,team,KT Rolster,,Jayce,Azir,Ambessa,Bard,Poppy,0
+LOLTMNT03_336695,LCK,2026-01-17 11:10:45,16.01,Red,team,Gen.G,,Neeko,Malphite,Orianna,Sivir,Ziggs,1
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Blue,top,Gen.G,Sion,Azir,Orianna,Malphite,Aphelios,Corki,1
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Blue,jng,Gen.G,Ambessa,Azir,Orianna,Malphite,Aphelios,Corki,1
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Blue,mid,Gen.G,Anivia,Azir,Orianna,Malphite,Aphelios,Corki,1
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Blue,bot,Gen.G,Yunara,Azir,Orianna,Malphite,Aphelios,Corki,1
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Blue,sup,Gen.G,Rell,Azir,Orianna,Malphite,Aphelios,Corki,1
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Red,top,KT Rolster,Renekton,Neeko,Jayce,Cassiopeia,Lulu,Poppy,0
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Red,jng,KT Rolster,Wukong,Neeko,Jayce,Cassiopeia,Lulu,Poppy,0
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Red,mid,KT Rolster,Ryze,Neeko,Jayce,Cassiopeia,Lulu,Poppy,0
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Red,bot,KT Rolster,Ziggs,Neeko,Jayce,Cassiopeia,Lulu,Poppy,0
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Red,sup,KT Rolster,Nautilus,Neeko,Jayce,Cassiopeia,Lulu,Poppy,0
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Blue,team,Gen.G,,Azir,Orianna,Malphite,Aphelios,Corki,1
+LOLTMNT03_337782,LCK,2026-01-17 12:05:01,16.01,Red,team,KT Rolster,,Neeko,Jayce,Cassiopeia,Lulu,Poppy,0
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Blue,top,Hanwha Life Esports,Sion,Rumble,Jayce,Varus,Gwen,Miss Fortune,0
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Blue,jng,Hanwha Life Esports,Aatrox,Rumble,Jayce,Varus,Gwen,Miss Fortune,0
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Blue,mid,Hanwha Life Esports,Azir,Rumble,Jayce,Varus,Gwen,Miss Fortune,0
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Blue,bot,Hanwha Life Esports,Aphelios,Rumble,Jayce,Varus,Gwen,Miss Fortune,0
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Blue,sup,Hanwha Life Esports,Lulu,Rumble,Jayce,Varus,Gwen,Miss Fortune,0
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Red,top,Nongshim RedForce,Zaahen,Ambessa,Malphite,Yunara,Xin Zhao,Jarvan IV,1
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Red,jng,Nongshim RedForce,Pantheon,Ambessa,Malphite,Yunara,Xin Zhao,Jarvan IV,1
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Red,mid,Nongshim RedForce,Orianna,Ambessa,Malphite,Yunara,Xin Zhao,Jarvan IV,1
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Red,bot,Nongshim RedForce,Corki,Ambessa,Malphite,Yunara,Xin Zhao,Jarvan IV,1
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Red,sup,Nongshim RedForce,Neeko,Ambessa,Malphite,Yunara,Xin Zhao,Jarvan IV,1
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Blue,team,Hanwha Life Esports,,Rumble,Jayce,Varus,Gwen,Miss Fortune,0
+LOLTMNT03_336834,LCK,2026-01-18 08:05:24,16.01,Red,team,Nongshim RedForce,,Ambessa,Malphite,Yunara,Xin Zhao,Jarvan IV,1
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Blue,top,Nongshim RedForce,Gwen,Jayce,Rumble,Yone,Rakan,Rell,1
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Blue,jng,Nongshim RedForce,Jarvan IV,Jayce,Rumble,Yone,Rakan,Rell,1
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Blue,mid,Nongshim RedForce,Taliyah,Jayce,Rumble,Yone,Rakan,Rell,1
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Blue,bot,Nongshim RedForce,Yunara,Jayce,Rumble,Yone,Rakan,Rell,1
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Blue,sup,Nongshim RedForce,Nautilus,Jayce,Rumble,Yone,Rakan,Rell,1
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Red,top,Hanwha Life Esports,Ambessa,Malphite,Vi,Poppy,Alistar,Renekton,0
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Red,jng,Hanwha Life Esports,Xin Zhao,Malphite,Vi,Poppy,Alistar,Renekton,0
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Red,mid,Hanwha Life Esports,Ryze,Malphite,Vi,Poppy,Alistar,Renekton,0
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Red,bot,Hanwha Life Esports,Varus,Malphite,Vi,Poppy,Alistar,Renekton,0
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Red,sup,Hanwha Life Esports,Braum,Malphite,Vi,Poppy,Alistar,Renekton,0
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Blue,team,Nongshim RedForce,,Jayce,Rumble,Yone,Rakan,Rell,1
+LOLTMNT03_336842,LCK,2026-01-18 08:58:36,16.01,Red,team,Hanwha Life Esports,,Malphite,Vi,Poppy,Alistar,Renekton,0
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Blue,top,T1,Zaahen,Jayce,Varus,Jarvan IV,Renekton,Rek'Sai,1
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Blue,jng,T1,Nocturne,Jayce,Varus,Jarvan IV,Renekton,Rek'Sai,1
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Blue,mid,T1,Azir,Jayce,Varus,Jarvan IV,Renekton,Rek'Sai,1
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Blue,bot,T1,Aphelios,Jayce,Varus,Jarvan IV,Renekton,Rek'Sai,1
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Blue,sup,T1,Thresh,Jayce,Varus,Jarvan IV,Renekton,Rek'Sai,1
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Red,top,Kiwoom DRX,Jax,Malphite,Pantheon,Rumble,Lulu,Ambessa,0
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Red,jng,Kiwoom DRX,Xin Zhao,Malphite,Pantheon,Rumble,Lulu,Ambessa,0
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Red,mid,Kiwoom DRX,Orianna,Malphite,Pantheon,Rumble,Lulu,Ambessa,0
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Red,bot,Kiwoom DRX,Yunara,Malphite,Pantheon,Rumble,Lulu,Ambessa,0
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Red,sup,Kiwoom DRX,Bard,Malphite,Pantheon,Rumble,Lulu,Ambessa,0
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Blue,team,T1,,Jayce,Varus,Jarvan IV,Renekton,Rek'Sai,1
+LOLTMNT03_337890,LCK,2026-01-18 10:20:18,16.01,Red,team,Kiwoom DRX,,Malphite,Pantheon,Rumble,Lulu,Ambessa,0
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Blue,top,T1,Gnar,Varus,Malphite,Vi,Nami,Karma,0
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Blue,jng,T1,Sylas,Varus,Malphite,Vi,Nami,Karma,0
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Blue,mid,T1,Ryze,Varus,Malphite,Vi,Nami,Karma,0
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Blue,bot,T1,Kai'Sa,Varus,Malphite,Vi,Nami,Karma,0
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Blue,sup,T1,Neeko,Varus,Malphite,Vi,Nami,Karma,0
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Red,top,Kiwoom DRX,Renekton,Rumble,Jayce,Pantheon,Jarvan IV,Wukong,1
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Red,jng,Kiwoom DRX,Ambessa,Rumble,Jayce,Pantheon,Jarvan IV,Wukong,1
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Red,mid,Kiwoom DRX,Taliyah,Rumble,Jayce,Pantheon,Jarvan IV,Wukong,1
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Red,bot,Kiwoom DRX,Corki,Rumble,Jayce,Pantheon,Jarvan IV,Wukong,1
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Red,sup,Kiwoom DRX,Alistar,Rumble,Jayce,Pantheon,Jarvan IV,Wukong,1
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Blue,team,T1,,Varus,Malphite,Vi,Nami,Karma,0
+LOLTMNT03_337894,LCK,2026-01-18 11:12:18,16.01,Red,team,Kiwoom DRX,,Rumble,Jayce,Pantheon,Jarvan IV,Wukong,1
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Blue,top,Kiwoom DRX,Gragas,Malphite,Pantheon,Wukong,Xayah,Zeri,0
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Blue,jng,Kiwoom DRX,Vi,Malphite,Pantheon,Wukong,Xayah,Zeri,0
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Blue,mid,Kiwoom DRX,Syndra,Malphite,Pantheon,Wukong,Xayah,Zeri,0
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Blue,bot,Kiwoom DRX,Lucian,Malphite,Pantheon,Wukong,Xayah,Zeri,0
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Blue,sup,Kiwoom DRX,Braum,Malphite,Pantheon,Wukong,Xayah,Zeri,0
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Red,top,T1,Gwen,Jayce,Rumble,Akali,K'Sante,Kennen,1
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Red,jng,T1,Jarvan IV,Jayce,Rumble,Akali,K'Sante,Kennen,1
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Red,mid,T1,Aurora,Jayce,Rumble,Akali,K'Sante,Kennen,1
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Red,bot,T1,Kalista,Jayce,Rumble,Akali,K'Sante,Kennen,1
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Red,sup,T1,Renata Glasc,Jayce,Rumble,Akali,K'Sante,Kennen,1
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Blue,team,Kiwoom DRX,,Malphite,Pantheon,Wukong,Xayah,Zeri,0
+LOLTMNT03_336867,LCK,2026-01-18 12:05:41,16.01,Red,team,T1,,Jayce,Rumble,Akali,K'Sante,Kennen,1
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Blue,top,Dplus Kia,K'Sante,Orianna,Azir,Jayce,Nautilus,Varus,1
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Blue,jng,Dplus Kia,Jarvan IV,Orianna,Azir,Jayce,Nautilus,Varus,1
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Blue,mid,Dplus Kia,Ryze,Orianna,Azir,Jayce,Nautilus,Varus,1
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Blue,bot,Dplus Kia,Sivir,Orianna,Azir,Jayce,Nautilus,Varus,1
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Blue,sup,Dplus Kia,Bard,Orianna,Azir,Jayce,Nautilus,Varus,1
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Red,top,Nongshim RedForce,Rumble,Malphite,Yunara,Vi,Lucian,Karma,0
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Red,jng,Nongshim RedForce,Pantheon,Malphite,Yunara,Vi,Lucian,Karma,0
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Red,mid,Nongshim RedForce,Taliyah,Malphite,Yunara,Vi,Lucian,Karma,0
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Red,bot,Nongshim RedForce,Ezreal,Malphite,Yunara,Vi,Lucian,Karma,0
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Red,sup,Nongshim RedForce,Neeko,Malphite,Yunara,Vi,Lucian,Karma,0
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Blue,team,Dplus Kia,,Orianna,Azir,Jayce,Nautilus,Varus,1
+LOLTMNT03_338494,LCK,2026-01-21 08:05:24,16.01,Red,team,Nongshim RedForce,,Malphite,Yunara,Vi,Lucian,Karma,0
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Blue,top,Dplus Kia,Gwen,Orianna,Azir,Jayce,Braum,Alistar,0
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Blue,jng,Dplus Kia,Qiyana,Orianna,Azir,Jayce,Braum,Alistar,0
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Blue,mid,Dplus Kia,Zoe,Orianna,Azir,Jayce,Braum,Alistar,0
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Blue,bot,Dplus Kia,Varus,Orianna,Azir,Jayce,Braum,Alistar,0
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Blue,sup,Dplus Kia,Nautilus,Orianna,Azir,Jayce,Braum,Alistar,0
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Red,top,Nongshim RedForce,Ambessa,Malphite,Vi,Renekton,Ahri,LeBlanc,1
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Red,jng,Nongshim RedForce,Nocturne,Malphite,Vi,Renekton,Ahri,LeBlanc,1
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Red,mid,Nongshim RedForce,Aurora,Malphite,Vi,Renekton,Ahri,LeBlanc,1
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Red,bot,Nongshim RedForce,Yunara,Malphite,Vi,Renekton,Ahri,LeBlanc,1
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Red,sup,Nongshim RedForce,Leona,Malphite,Vi,Renekton,Ahri,LeBlanc,1
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Blue,team,Dplus Kia,,Orianna,Azir,Jayce,Braum,Alistar,0
+LOLTMNT03_339373,LCK,2026-01-21 09:07:05,16.01,Red,team,Nongshim RedForce,,Malphite,Vi,Renekton,Ahri,LeBlanc,1
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Blue,top,Dplus Kia,Zaahen,Orianna,Azir,Lulu,Xin Zhao,Wukong,1
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Blue,jng,Dplus Kia,Vi,Orianna,Azir,Lulu,Xin Zhao,Wukong,1
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Blue,mid,Dplus Kia,Twisted Fate,Orianna,Azir,Lulu,Xin Zhao,Wukong,1
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Blue,bot,Dplus Kia,Lucian,Orianna,Azir,Lulu,Xin Zhao,Wukong,1
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Blue,sup,Dplus Kia,Nami,Orianna,Azir,Lulu,Xin Zhao,Wukong,1
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Red,top,Nongshim RedForce,Gnar,Malphite,Poppy,Sion,Ahri,LeBlanc,0
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Red,jng,Nongshim RedForce,Jayce,Malphite,Poppy,Sion,Ahri,LeBlanc,0
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Red,mid,Nongshim RedForce,Akali,Malphite,Poppy,Sion,Ahri,LeBlanc,0
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Red,bot,Nongshim RedForce,Kalista,Malphite,Poppy,Sion,Ahri,LeBlanc,0
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Red,sup,Nongshim RedForce,Renata Glasc,Malphite,Poppy,Sion,Ahri,LeBlanc,0
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Blue,team,Dplus Kia,,Orianna,Azir,Lulu,Xin Zhao,Wukong,1
+LOLTMNT03_338498,LCK,2026-01-21 09:52:46,16.01,Red,team,Nongshim RedForce,,Malphite,Poppy,Sion,Ahri,LeBlanc,0
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Blue,top,DN SOOPers,Rek'Sai,Jayce,Ambessa,Bard,Poppy,Rakan,0
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Blue,jng,DN SOOPers,Xin Zhao,Jayce,Ambessa,Bard,Poppy,Rakan,0
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Blue,mid,DN SOOPers,Azir,Jayce,Ambessa,Bard,Poppy,Rakan,0
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Blue,bot,DN SOOPers,Yunara,Jayce,Ambessa,Bard,Poppy,Rakan,0
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Blue,sup,DN SOOPers,Alistar,Jayce,Ambessa,Bard,Poppy,Rakan,0
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Red,top,Kiwoom DRX,Renekton,Malphite,Neeko,Rumble,Gnar,K'Sante,1
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Red,jng,Kiwoom DRX,Nocturne,Malphite,Neeko,Rumble,Gnar,K'Sante,1
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Red,mid,Kiwoom DRX,Orianna,Malphite,Neeko,Rumble,Gnar,K'Sante,1
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Red,bot,Kiwoom DRX,Corki,Malphite,Neeko,Rumble,Gnar,K'Sante,1
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Red,sup,Kiwoom DRX,Braum,Malphite,Neeko,Rumble,Gnar,K'Sante,1
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Blue,team,DN SOOPers,,Jayce,Ambessa,Bard,Poppy,Rakan,0
+LOLTMNT03_338517,LCK,2026-01-21 11:14:52,16.01,Red,team,Kiwoom DRX,,Malphite,Neeko,Rumble,Gnar,K'Sante,1
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Blue,top,Kiwoom DRX,Gnar,Malphite,Vi,K'Sante,Jarvan IV,Wukong,0
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Blue,jng,Kiwoom DRX,Pantheon,Malphite,Vi,K'Sante,Jarvan IV,Wukong,0
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Blue,mid,Kiwoom DRX,Taliyah,Malphite,Vi,K'Sante,Jarvan IV,Wukong,0
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Blue,bot,Kiwoom DRX,Sivir,Malphite,Vi,K'Sante,Jarvan IV,Wukong,0
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Blue,sup,Kiwoom DRX,Leona,Malphite,Vi,K'Sante,Jarvan IV,Wukong,0
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Red,top,DN SOOPers,Kennen,Jayce,Ambessa,Rumble,Bard,Nautilus,1
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Red,jng,DN SOOPers,Lee Sin,Jayce,Ambessa,Rumble,Bard,Nautilus,1
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Red,mid,DN SOOPers,Ryze,Jayce,Ambessa,Rumble,Bard,Nautilus,1
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Red,bot,DN SOOPers,Aphelios,Jayce,Ambessa,Rumble,Bard,Nautilus,1
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Red,sup,DN SOOPers,Neeko,Jayce,Ambessa,Rumble,Bard,Nautilus,1
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Blue,team,Kiwoom DRX,,Malphite,Vi,K'Sante,Jarvan IV,Wukong,0
+LOLTMNT03_338532,LCK,2026-01-21 12:06:46,16.01,Red,team,DN SOOPers,,Jayce,Ambessa,Rumble,Bard,Nautilus,1
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Blue,top,DN SOOPers,K'Sante,Malphite,Bard,Ambessa,Miss Fortune,Ashe,1
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Blue,jng,DN SOOPers,Jayce,Malphite,Bard,Ambessa,Miss Fortune,Ashe,1
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Blue,mid,DN SOOPers,Zoe,Malphite,Bard,Ambessa,Miss Fortune,Ashe,1
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Blue,bot,DN SOOPers,Kalista,Malphite,Bard,Ambessa,Miss Fortune,Ashe,1
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Blue,sup,DN SOOPers,Renata Glasc,Malphite,Bard,Ambessa,Miss Fortune,Ashe,1
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Red,top,Kiwoom DRX,Gwen,Rumble,Varus,Vi,Nautilus,Rell,0
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Red,jng,Kiwoom DRX,Jarvan IV,Rumble,Varus,Vi,Nautilus,Rell,0
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Red,mid,Kiwoom DRX,Aurora,Rumble,Varus,Vi,Nautilus,Rell,0
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Red,bot,Kiwoom DRX,Lucian,Rumble,Varus,Vi,Nautilus,Rell,0
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Red,sup,Kiwoom DRX,Nami,Rumble,Varus,Vi,Nautilus,Rell,0
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Blue,team,DN SOOPers,,Malphite,Bard,Ambessa,Miss Fortune,Ashe,1
+LOLTMNT03_338544,LCK,2026-01-21 13:00:21,16.01,Red,team,Kiwoom DRX,,Rumble,Varus,Vi,Nautilus,Rell,0
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Blue,top,Hanwha Life Esports,Gnar,Jayce,Rumble,Poppy,Bard,Neeko,1
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Blue,jng,Hanwha Life Esports,Jarvan IV,Jayce,Rumble,Poppy,Bard,Neeko,1
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Blue,mid,Hanwha Life Esports,Azir,Jayce,Rumble,Poppy,Bard,Neeko,1
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Blue,bot,Hanwha Life Esports,Varus,Jayce,Rumble,Poppy,Bard,Neeko,1
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Blue,sup,Hanwha Life Esports,Rakan,Jayce,Rumble,Poppy,Bard,Neeko,1
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Red,top,HANJIN BRION,Renekton,Malphite,Ambessa,Aurora,Alistar,Nautilus,0
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Red,jng,HANJIN BRION,Nocturne,Malphite,Ambessa,Aurora,Alistar,Nautilus,0
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Red,mid,HANJIN BRION,Orianna,Malphite,Ambessa,Aurora,Alistar,Nautilus,0
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Red,bot,HANJIN BRION,Jhin,Malphite,Ambessa,Aurora,Alistar,Nautilus,0
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Red,sup,HANJIN BRION,Pantheon,Malphite,Ambessa,Aurora,Alistar,Nautilus,0
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Blue,team,Hanwha Life Esports,,Jayce,Rumble,Poppy,Bard,Neeko,1
+LOLTMNT03_339583,LCK,2026-01-22 08:05:25,16.01,Red,team,HANJIN BRION,,Malphite,Ambessa,Aurora,Alistar,Nautilus,0
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Blue,top,Hanwha Life Esports,Zaahen,Jayce,Rumble,Vi,Nautilus,Neeko,0
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Blue,jng,Hanwha Life Esports,Aatrox,Jayce,Rumble,Vi,Nautilus,Neeko,0
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Blue,mid,Hanwha Life Esports,Aurora,Jayce,Rumble,Vi,Nautilus,Neeko,0
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Blue,bot,Hanwha Life Esports,Yunara,Jayce,Rumble,Vi,Nautilus,Neeko,0
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Blue,sup,Hanwha Life Esports,Poppy,Jayce,Rumble,Vi,Nautilus,Neeko,0
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Red,top,HANJIN BRION,Ambessa,Malphite,Aphelios,Ryze,Lulu,Alistar,1
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Red,jng,HANJIN BRION,Xin Zhao,Malphite,Aphelios,Ryze,Lulu,Alistar,1
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Red,mid,HANJIN BRION,Taliyah,Malphite,Aphelios,Ryze,Lulu,Alistar,1
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Red,bot,HANJIN BRION,Corki,Malphite,Aphelios,Ryze,Lulu,Alistar,1
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Red,sup,HANJIN BRION,Elise,Malphite,Aphelios,Ryze,Lulu,Alistar,1
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Blue,team,Hanwha Life Esports,,Jayce,Rumble,Vi,Nautilus,Neeko,0
+LOLTMNT03_339592,LCK,2026-01-22 09:06:13,16.01,Red,team,HANJIN BRION,,Malphite,Aphelios,Ryze,Lulu,Alistar,1
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Blue,top,HANJIN BRION,K'Sante,Rumble,Jayce,Aphelios,Anivia,Galio,0
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Blue,jng,HANJIN BRION,Wukong,Rumble,Jayce,Aphelios,Anivia,Galio,0
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Blue,mid,HANJIN BRION,Ryze,Rumble,Jayce,Aphelios,Anivia,Galio,0
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Blue,bot,HANJIN BRION,Lucian,Rumble,Jayce,Aphelios,Anivia,Galio,0
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Blue,sup,HANJIN BRION,Braum,Rumble,Jayce,Aphelios,Anivia,Galio,0
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Red,top,Hanwha Life Esports,Gwen,Malphite,Neeko,Cassiopeia,Trundle,Kennen,1
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Red,jng,Hanwha Life Esports,Vi,Malphite,Neeko,Cassiopeia,Trundle,Kennen,1
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Red,mid,Hanwha Life Esports,Akali,Malphite,Neeko,Cassiopeia,Trundle,Kennen,1
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Red,bot,Hanwha Life Esports,Sivir,Malphite,Neeko,Cassiopeia,Trundle,Kennen,1
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Red,sup,Hanwha Life Esports,Alistar,Malphite,Neeko,Cassiopeia,Trundle,Kennen,1
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Blue,team,HANJIN BRION,,Rumble,Jayce,Aphelios,Anivia,Galio,0
+LOLTMNT03_339605,LCK,2026-01-22 10:02:22,16.01,Red,team,Hanwha Life Esports,,Malphite,Neeko,Cassiopeia,Trundle,Kennen,1
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Blue,top,Gen.G,Renekton,Neeko,Malphite,Varus,Taliyah,Sion,1
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Blue,jng,Gen.G,Jarvan IV,Neeko,Malphite,Varus,Taliyah,Sion,1
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Blue,mid,Gen.G,Azir,Neeko,Malphite,Varus,Taliyah,Sion,1
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Blue,bot,Gen.G,Corki,Neeko,Malphite,Varus,Taliyah,Sion,1
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Blue,sup,Gen.G,Nami,Neeko,Malphite,Varus,Taliyah,Sion,1
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Red,top,BNK FEARX,K'Sante,Jayce,Rumble,Xin Zhao,Nautilus,Gwen,0
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Red,jng,BNK FEARX,Pantheon,Jayce,Rumble,Xin Zhao,Nautilus,Gwen,0
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Red,mid,BNK FEARX,Akali,Jayce,Rumble,Xin Zhao,Nautilus,Gwen,0
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Red,bot,BNK FEARX,Yunara,Jayce,Rumble,Xin Zhao,Nautilus,Gwen,0
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Red,sup,BNK FEARX,Lulu,Jayce,Rumble,Xin Zhao,Nautilus,Gwen,0
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Blue,team,Gen.G,,Neeko,Malphite,Varus,Taliyah,Sion,1
+LOLTMNT03_339627,LCK,2026-01-22 11:14:53,16.01,Red,team,BNK FEARX,,Jayce,Rumble,Xin Zhao,Nautilus,Gwen,0
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Blue,top,Gen.G,Gwen,Rumble,Jayce,Neeko,Jax,Aurora,1
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Blue,jng,Gen.G,Xin Zhao,Rumble,Jayce,Neeko,Jax,Aurora,1
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Blue,mid,Gen.G,Ryze,Rumble,Jayce,Neeko,Jax,Aurora,1
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Blue,bot,Gen.G,Jhin,Rumble,Jayce,Neeko,Jax,Aurora,1
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Blue,sup,Gen.G,Rakan,Rumble,Jayce,Neeko,Jax,Aurora,1
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Red,top,BNK FEARX,Ambessa,Malphite,Varus,Vi,Lucian,Poppy,0
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Red,jng,BNK FEARX,Qiyana,Malphite,Varus,Vi,Lucian,Poppy,0
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Red,mid,BNK FEARX,Orianna,Malphite,Varus,Vi,Lucian,Poppy,0
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Red,bot,BNK FEARX,Ezreal,Malphite,Varus,Vi,Lucian,Poppy,0
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Red,sup,BNK FEARX,Leona,Malphite,Varus,Vi,Lucian,Poppy,0
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Blue,team,Gen.G,,Rumble,Jayce,Neeko,Jax,Aurora,1
+LOLTMNT03_340003,LCK,2026-01-22 12:11:59,16.01,Red,team,BNK FEARX,,Malphite,Varus,Vi,Lucian,Poppy,0
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Blue,top,T1,Gnar,Jayce,Rumble,Orianna,Nautilus,Malphite,1
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Blue,jng,T1,Vi,Jayce,Rumble,Orianna,Nautilus,Malphite,1
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Blue,mid,T1,Ryze,Jayce,Rumble,Orianna,Nautilus,Malphite,1
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Blue,bot,T1,Ezreal,Jayce,Rumble,Orianna,Nautilus,Malphite,1
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Blue,sup,T1,Lissandra,Jayce,Rumble,Orianna,Nautilus,Malphite,1
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Red,top,KT Rolster,Renekton,Bard,Neeko,Azir,Yunara,Poppy,0
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Red,jng,KT Rolster,Wukong,Bard,Neeko,Azir,Yunara,Poppy,0
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Red,mid,KT Rolster,Taliyah,Bard,Neeko,Azir,Yunara,Poppy,0
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Red,bot,KT Rolster,Varus,Bard,Neeko,Azir,Yunara,Poppy,0
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Red,sup,KT Rolster,Rakan,Bard,Neeko,Azir,Yunara,Poppy,0
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Blue,team,T1,,Jayce,Rumble,Orianna,Nautilus,Malphite,1
+LOLTMNT03_341143,LCK,2026-01-23 08:04:55,16.01,Red,team,KT Rolster,,Bard,Neeko,Azir,Yunara,Poppy,0
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Blue,top,T1,Zaahen,Malphite,Nocturne,Rumble,Jarvan IV,Pantheon,1
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Blue,jng,T1,Dr. Mundo,Malphite,Nocturne,Rumble,Jarvan IV,Pantheon,1
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Blue,mid,T1,Azir,Malphite,Nocturne,Rumble,Jarvan IV,Pantheon,1
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Blue,bot,T1,Aphelios,Malphite,Nocturne,Rumble,Jarvan IV,Pantheon,1
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Blue,sup,T1,Lulu,Malphite,Nocturne,Rumble,Jarvan IV,Pantheon,1
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Red,top,KT Rolster,Rek'Sai,Bard,Jayce,Ambessa,Poppy,Xin Zhao,0
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Red,jng,KT Rolster,Sejuani,Bard,Jayce,Ambessa,Poppy,Xin Zhao,0
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Red,mid,KT Rolster,Akali,Bard,Jayce,Ambessa,Poppy,Xin Zhao,0
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Red,bot,KT Rolster,Yunara,Bard,Jayce,Ambessa,Poppy,Xin Zhao,0
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Red,sup,KT Rolster,Neeko,Bard,Jayce,Ambessa,Poppy,Xin Zhao,0
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Blue,team,T1,,Malphite,Nocturne,Rumble,Jarvan IV,Pantheon,1
+LOLTMNT03_341150,LCK,2026-01-23 09:00:11,16.01,Red,team,KT Rolster,,Bard,Jayce,Ambessa,Poppy,Xin Zhao,0
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Blue,top,Kiwoom DRX,Gnar,Rumble,Orianna,Pantheon,Nautilus,Poppy,1
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Blue,jng,Kiwoom DRX,Vi,Rumble,Orianna,Pantheon,Nautilus,Poppy,1
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Blue,mid,Kiwoom DRX,Ryze,Rumble,Orianna,Pantheon,Nautilus,Poppy,1
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Blue,bot,Kiwoom DRX,Kai'Sa,Rumble,Orianna,Pantheon,Nautilus,Poppy,1
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Blue,sup,Kiwoom DRX,Neeko,Rumble,Orianna,Pantheon,Nautilus,Poppy,1
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Red,top,Nongshim RedForce,Renekton,Malphite,Azir,Corki,Rakan,Sion,0
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Red,jng,Nongshim RedForce,Jayce,Malphite,Azir,Corki,Rakan,Sion,0
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Red,mid,Nongshim RedForce,Taliyah,Malphite,Azir,Corki,Rakan,Sion,0
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Red,bot,Nongshim RedForce,Yunara,Malphite,Azir,Corki,Rakan,Sion,0
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Red,sup,Nongshim RedForce,Alistar,Malphite,Azir,Corki,Rakan,Sion,0
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Blue,team,Kiwoom DRX,,Rumble,Orianna,Pantheon,Nautilus,Poppy,1
+LOLTMNT03_340138,LCK,2026-01-23 10:33:19,16.01,Red,team,Nongshim RedForce,,Malphite,Azir,Corki,Rakan,Sion,0
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Blue,top,Kiwoom DRX,Gwen,Rumble,Orianna,Ambessa,Ezreal,Lucian,0
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Blue,jng,Kiwoom DRX,Pantheon,Rumble,Orianna,Ambessa,Ezreal,Lucian,0
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Blue,mid,Kiwoom DRX,Akali,Rumble,Orianna,Ambessa,Ezreal,Lucian,0
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Blue,bot,Kiwoom DRX,Corki,Rumble,Orianna,Ambessa,Ezreal,Lucian,0
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Blue,sup,Kiwoom DRX,Poppy,Rumble,Orianna,Ambessa,Ezreal,Lucian,0
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Red,top,Nongshim RedForce,Zaahen,Malphite,Azir,Varus,Ahri,Bard,1
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Red,jng,Nongshim RedForce,Jarvan IV,Malphite,Azir,Varus,Ahri,Bard,1
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Red,mid,Nongshim RedForce,Aurora,Malphite,Azir,Varus,Ahri,Bard,1
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Red,bot,Nongshim RedForce,Kalista,Malphite,Azir,Varus,Ahri,Bard,1
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Red,sup,Nongshim RedForce,Renata Glasc,Malphite,Azir,Varus,Ahri,Bard,1
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Blue,team,Kiwoom DRX,,Rumble,Orianna,Ambessa,Ezreal,Lucian,0
+LOLTMNT03_340145,LCK,2026-01-23 11:24:18,16.01,Red,team,Nongshim RedForce,,Malphite,Azir,Varus,Ahri,Bard,1
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Blue,top,Nongshim RedForce,Sion,Rumble,Malphite,Nocturne,Lucian,Karma,0
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Blue,jng,Nongshim RedForce,Xin Zhao,Rumble,Malphite,Nocturne,Lucian,Karma,0
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Blue,mid,Nongshim RedForce,Azir,Rumble,Malphite,Nocturne,Lucian,Karma,0
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Blue,bot,Nongshim RedForce,Caitlyn,Rumble,Malphite,Nocturne,Lucian,Karma,0
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Blue,sup,Nongshim RedForce,Braum,Rumble,Malphite,Nocturne,Lucian,Karma,0
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Red,top,Kiwoom DRX,K'Sante,Sylas,Varus,Ambessa,Leona,Nautilus,1
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Red,jng,Kiwoom DRX,Jax,Sylas,Varus,Ambessa,Leona,Nautilus,1
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Red,mid,Kiwoom DRX,Orianna,Sylas,Varus,Ambessa,Leona,Nautilus,1
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Red,bot,Kiwoom DRX,Jhin,Sylas,Varus,Ambessa,Leona,Nautilus,1
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Red,sup,Kiwoom DRX,Bard,Sylas,Varus,Ambessa,Leona,Nautilus,1
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Blue,team,Nongshim RedForce,,Rumble,Malphite,Nocturne,Lucian,Karma,0
+LOLTMNT03_341173,LCK,2026-01-23 12:21:14,16.01,Red,team,Kiwoom DRX,,Sylas,Varus,Ambessa,Leona,Nautilus,1
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Blue,top,DN SOOPers,Rek'Sai,Jayce,Ambessa,Rumble,Poppy,Gnar,0
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Blue,jng,DN SOOPers,Jarvan IV,Jayce,Ambessa,Rumble,Poppy,Gnar,0
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Blue,mid,DN SOOPers,Orianna,Jayce,Ambessa,Rumble,Poppy,Gnar,0
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Blue,bot,DN SOOPers,Sivir,Jayce,Ambessa,Rumble,Poppy,Gnar,0
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Blue,sup,DN SOOPers,Alistar,Jayce,Ambessa,Rumble,Poppy,Gnar,0
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Red,top,Hanwha Life Esports,Sion,Malphite,Akali,Nocturne,Bard,Gwen,1
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Red,jng,Hanwha Life Esports,Xin Zhao,Malphite,Akali,Nocturne,Bard,Gwen,1
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Red,mid,Hanwha Life Esports,Azir,Malphite,Akali,Nocturne,Bard,Gwen,1
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Red,bot,Hanwha Life Esports,Varus,Malphite,Akali,Nocturne,Bard,Gwen,1
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Red,sup,Hanwha Life Esports,Rakan,Malphite,Akali,Nocturne,Bard,Gwen,1
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Blue,team,DN SOOPers,,Jayce,Ambessa,Rumble,Poppy,Gnar,0
+LOLTMNT03_341253,LCK,2026-01-24 08:04:56,16.01,Red,team,Hanwha Life Esports,,Malphite,Akali,Nocturne,Bard,Gwen,1
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Blue,top,DN SOOPers,K'Sante,Jayce,Ambessa,Rumble,Nautilus,Gnar,1
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Blue,jng,DN SOOPers,Wukong,Jayce,Ambessa,Rumble,Nautilus,Gnar,1
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Blue,mid,DN SOOPers,Ahri,Jayce,Ambessa,Rumble,Nautilus,Gnar,1
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Blue,bot,DN SOOPers,Ezreal,Jayce,Ambessa,Rumble,Nautilus,Gnar,1
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Blue,sup,DN SOOPers,Neeko,Jayce,Ambessa,Rumble,Nautilus,Gnar,1
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Red,top,Hanwha Life Esports,Aurora,Malphite,Renekton,Pantheon,Yunara,Jax,0
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Red,jng,Hanwha Life Esports,Vi,Malphite,Renekton,Pantheon,Yunara,Jax,0
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Red,mid,Hanwha Life Esports,Taliyah,Malphite,Renekton,Pantheon,Yunara,Jax,0
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Red,bot,Hanwha Life Esports,Corki,Malphite,Renekton,Pantheon,Yunara,Jax,0
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Red,sup,Hanwha Life Esports,Bard,Malphite,Renekton,Pantheon,Yunara,Jax,0
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Blue,team,DN SOOPers,,Jayce,Ambessa,Rumble,Nautilus,Gnar,1
+LOLTMNT03_340232,LCK,2026-01-24 09:04:12,16.01,Red,team,Hanwha Life Esports,,Malphite,Renekton,Pantheon,Yunara,Jax,0
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Blue,top,DN SOOPers,Aatrox,Jayce,Ambessa,Rumble,Gnar,Qiyana,0
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Blue,jng,DN SOOPers,Hecarim,Jayce,Ambessa,Rumble,Gnar,Qiyana,0
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Blue,mid,DN SOOPers,Cassiopeia,Jayce,Ambessa,Rumble,Gnar,Qiyana,0
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Blue,bot,DN SOOPers,Aphelios,Jayce,Ambessa,Rumble,Gnar,Qiyana,0
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Blue,sup,DN SOOPers,Rell,Jayce,Ambessa,Rumble,Gnar,Qiyana,0
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Red,top,Hanwha Life Esports,Renekton,Malphite,Yunara,Pantheon,Lee Sin,Nocturne,1
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Red,jng,Hanwha Life Esports,Trundle,Malphite,Yunara,Pantheon,Lee Sin,Nocturne,1
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Red,mid,Hanwha Life Esports,Ryze,Malphite,Yunara,Pantheon,Lee Sin,Nocturne,1
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Red,bot,Hanwha Life Esports,Ziggs,Malphite,Yunara,Pantheon,Lee Sin,Nocturne,1
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Red,sup,Hanwha Life Esports,Nautilus,Malphite,Yunara,Pantheon,Lee Sin,Nocturne,1
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Blue,team,DN SOOPers,,Jayce,Ambessa,Rumble,Gnar,Qiyana,0
+LOLTMNT03_341276,LCK,2026-01-24 10:06:14,16.01,Red,team,Hanwha Life Esports,,Malphite,Yunara,Pantheon,Lee Sin,Nocturne,1
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Blue,top,Dplus Kia,Ambessa,Malphite,Azir,Yunara,Renekton,Poppy,0
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Blue,jng,Dplus Kia,Jarvan IV,Malphite,Azir,Yunara,Renekton,Poppy,0
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Blue,mid,Dplus Kia,Ryze,Malphite,Azir,Yunara,Renekton,Poppy,0
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Blue,bot,Dplus Kia,Corki,Malphite,Azir,Yunara,Renekton,Poppy,0
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Blue,sup,Dplus Kia,Nami,Malphite,Azir,Yunara,Renekton,Poppy,0
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Red,top,Gen.G,Gwen,Jayce,Rumble,Orianna,Nautilus,Neeko,1
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Red,jng,Gen.G,Xin Zhao,Jayce,Rumble,Orianna,Nautilus,Neeko,1
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Red,mid,Gen.G,Anivia,Jayce,Rumble,Orianna,Nautilus,Neeko,1
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Red,bot,Gen.G,Varus,Jayce,Rumble,Orianna,Nautilus,Neeko,1
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Red,sup,Gen.G,Bard,Jayce,Rumble,Orianna,Nautilus,Neeko,1
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Blue,team,Dplus Kia,,Malphite,Azir,Yunara,Renekton,Poppy,0
+LOLTMNT03_341342,LCK,2026-01-24 11:24:48,16.01,Red,team,Gen.G,,Jayce,Rumble,Orianna,Nautilus,Neeko,1
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Blue,top,Gen.G,Rumble,Neeko,Malphite,Orianna,K'Sante,Ornn,1
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Blue,jng,Gen.G,Wukong,Neeko,Malphite,Orianna,K'Sante,Ornn,1
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Blue,mid,Gen.G,Galio,Neeko,Malphite,Orianna,K'Sante,Ornn,1
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Blue,bot,Gen.G,Ashe,Neeko,Malphite,Orianna,K'Sante,Ornn,1
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Blue,sup,Gen.G,Seraphine,Neeko,Malphite,Orianna,K'Sante,Ornn,1
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Red,top,Dplus Kia,Sion,Azir,Jayce,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Red,jng,Dplus Kia,Vi,Azir,Jayce,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Red,mid,Dplus Kia,Syndra,Azir,Jayce,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Red,bot,Dplus Kia,Yunara,Azir,Jayce,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Red,sup,Dplus Kia,Lulu,Azir,Jayce,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Blue,team,Gen.G,,Neeko,Malphite,Orianna,K'Sante,Ornn,1
+LOLTMNT03_341348,LCK,2026-01-24 12:21:19,16.01,Red,team,Dplus Kia,,Azir,Jayce,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Blue,top,BNK FEARX,Rumble,Azir,Orianna,Bard,Alistar,Karma,0
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Blue,jng,BNK FEARX,Nocturne,Azir,Orianna,Bard,Alistar,Karma,0
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Blue,mid,BNK FEARX,Taliyah,Azir,Orianna,Bard,Alistar,Karma,0
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Blue,bot,BNK FEARX,Varus,Azir,Orianna,Bard,Alistar,Karma,0
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Blue,sup,BNK FEARX,Neeko,Azir,Orianna,Bard,Alistar,Karma,0
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Red,top,T1,Jayce,Malphite,Yunara,Akali,Ambessa,Pantheon,1
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Red,jng,T1,Vi,Malphite,Yunara,Akali,Ambessa,Pantheon,1
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Red,mid,T1,Ryze,Malphite,Yunara,Akali,Ambessa,Pantheon,1
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Red,bot,T1,Corki,Malphite,Yunara,Akali,Ambessa,Pantheon,1
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Red,sup,T1,Nami,Malphite,Yunara,Akali,Ambessa,Pantheon,1
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Blue,team,BNK FEARX,,Azir,Orianna,Bard,Alistar,Karma,0
+LOLTMNT03_341399,LCK,2026-01-25 08:05:39,16.01,Red,team,T1,,Malphite,Yunara,Akali,Ambessa,Pantheon,1
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Blue,top,T1,Aurora,Malphite,Yunara,Pantheon,Akali,Rek'Sai,0
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Blue,jng,T1,Xin Zhao,Malphite,Yunara,Pantheon,Akali,Rek'Sai,0
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Blue,mid,T1,Yone,Malphite,Yunara,Pantheon,Akali,Rek'Sai,0
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Blue,bot,T1,Aphelios,Malphite,Yunara,Pantheon,Akali,Rek'Sai,0
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Blue,sup,T1,Thresh,Malphite,Yunara,Pantheon,Akali,Rek'Sai,0
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Red,top,BNK FEARX,Sion,Azir,Orianna,Ambessa,Gwen,Gnar,1
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Red,jng,BNK FEARX,Jarvan IV,Azir,Orianna,Ambessa,Gwen,Gnar,1
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Red,mid,BNK FEARX,Syndra,Azir,Orianna,Ambessa,Gwen,Gnar,1
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Red,bot,BNK FEARX,Lucian,Azir,Orianna,Ambessa,Gwen,Gnar,1
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Red,sup,BNK FEARX,Milio,Azir,Orianna,Ambessa,Gwen,Gnar,1
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Blue,team,T1,,Malphite,Yunara,Pantheon,Akali,Rek'Sai,0
+LOLTMNT03_340339,LCK,2026-01-25 09:06:56,16.01,Red,team,BNK FEARX,,Azir,Orianna,Ambessa,Gwen,Gnar,1
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Blue,top,BNK FEARX,Gnar,Azir,Orianna,Yunara,Sivir,Sylas,0
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Blue,jng,BNK FEARX,Qiyana,Azir,Orianna,Yunara,Sivir,Sylas,0
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Blue,mid,BNK FEARX,Ahri,Azir,Orianna,Yunara,Sivir,Sylas,0
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Blue,bot,BNK FEARX,Ezreal,Azir,Orianna,Yunara,Sivir,Sylas,0
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Blue,sup,BNK FEARX,Rell,Azir,Orianna,Yunara,Sivir,Sylas,0
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Red,top,T1,K'Sante,Malphite,Ambessa,Nautilus,Leona,Akali,1
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Red,jng,T1,Pantheon,Malphite,Ambessa,Nautilus,Leona,Akali,1
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Red,mid,T1,Galio,Malphite,Ambessa,Nautilus,Leona,Akali,1
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Red,bot,T1,Kai'Sa,Malphite,Ambessa,Nautilus,Leona,Akali,1
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Red,sup,T1,Bard,Malphite,Ambessa,Nautilus,Leona,Akali,1
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Blue,team,BNK FEARX,,Azir,Orianna,Yunara,Sivir,Sylas,0
+LOLTMNT03_340341,LCK,2026-01-25 10:12:05,16.01,Red,team,T1,,Malphite,Ambessa,Nautilus,Leona,Akali,1
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Blue,top,HANJIN BRION,Gwen,Rumble,Jayce,Ambessa,Alistar,Yunara,1
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Blue,jng,HANJIN BRION,Pantheon,Rumble,Jayce,Ambessa,Alistar,Yunara,1
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Blue,mid,HANJIN BRION,Orianna,Rumble,Jayce,Ambessa,Alistar,Yunara,1
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Blue,bot,HANJIN BRION,Corki,Rumble,Jayce,Ambessa,Alistar,Yunara,1
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Blue,sup,HANJIN BRION,Rakan,Rumble,Jayce,Ambessa,Alistar,Yunara,1
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Red,top,KT Rolster,K'Sante,Malphite,Neeko,Renekton,Varus,Nocturne,0
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Red,jng,KT Rolster,Xin Zhao,Malphite,Neeko,Renekton,Varus,Nocturne,0
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Red,mid,KT Rolster,Azir,Malphite,Neeko,Renekton,Varus,Nocturne,0
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Red,bot,KT Rolster,Lucian,Malphite,Neeko,Renekton,Varus,Nocturne,0
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Red,sup,KT Rolster,Braum,Malphite,Neeko,Renekton,Varus,Nocturne,0
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Blue,team,HANJIN BRION,,Rumble,Jayce,Ambessa,Alistar,Yunara,1
+LOLTMNT03_341439,LCK,2026-01-25 11:28:02,16.01,Red,team,KT Rolster,,Malphite,Neeko,Renekton,Varus,Nocturne,0
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Blue,top,HANJIN BRION,Renekton,Malphite,Jarvan IV,Vi,Nocturne,Trundle,0
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Blue,jng,HANJIN BRION,Ambessa,Malphite,Jarvan IV,Vi,Nocturne,Trundle,0
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Blue,mid,HANJIN BRION,Ryze,Malphite,Jarvan IV,Vi,Nocturne,Trundle,0
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Blue,bot,HANJIN BRION,Varus,Malphite,Jarvan IV,Vi,Nocturne,Trundle,0
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Blue,sup,HANJIN BRION,Karma,Malphite,Jarvan IV,Vi,Nocturne,Trundle,0
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Red,top,KT Rolster,Gnar,Jayce,Rumble,Wukong,Aphelios,Nautilus,1
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Red,jng,KT Rolster,Dr. Mundo,Jayce,Rumble,Wukong,Aphelios,Nautilus,1
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Red,mid,KT Rolster,Taliyah,Jayce,Rumble,Wukong,Aphelios,Nautilus,1
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Red,bot,KT Rolster,Yunara,Jayce,Rumble,Wukong,Aphelios,Nautilus,1
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Red,sup,KT Rolster,Neeko,Jayce,Rumble,Wukong,Aphelios,Nautilus,1
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Blue,team,HANJIN BRION,,Malphite,Jarvan IV,Vi,Nocturne,Trundle,0
+LOLTMNT03_341446,LCK,2026-01-25 12:29:52,16.01,Red,team,KT Rolster,,Jayce,Rumble,Wukong,Aphelios,Nautilus,1
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Blue,top,KT Rolster,Kennen,Jayce,Rumble,Nocturne,Ahri,Alistar,1
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Blue,jng,KT Rolster,Wukong,Jayce,Rumble,Nocturne,Ahri,Alistar,1
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Blue,mid,KT Rolster,Zoe,Jayce,Rumble,Nocturne,Ahri,Alistar,1
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Blue,bot,KT Rolster,Kai'Sa,Jayce,Rumble,Nocturne,Ahri,Alistar,1
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Blue,sup,KT Rolster,Nautilus,Jayce,Rumble,Nocturne,Ahri,Alistar,1
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Red,top,HANJIN BRION,Zaahen,Malphite,Akali,Aurora,Sivir,Ezreal,0
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Red,jng,HANJIN BRION,Vi,Malphite,Akali,Aurora,Sivir,Ezreal,0
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Red,mid,HANJIN BRION,Ziggs,Malphite,Akali,Aurora,Sivir,Ezreal,0
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Red,bot,HANJIN BRION,Miss Fortune,Malphite,Akali,Aurora,Sivir,Ezreal,0
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Red,sup,HANJIN BRION,Leona,Malphite,Akali,Aurora,Sivir,Ezreal,0
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Blue,team,KT Rolster,,Jayce,Rumble,Nocturne,Ahri,Alistar,1
+LOLTMNT03_341450,LCK,2026-01-25 13:39:08,16.01,Red,team,HANJIN BRION,,Malphite,Akali,Aurora,Sivir,Ezreal,0
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Blue,top,Kiwoom DRX,Gnar,Rumble,Jayce,Orianna,Varus,Corki,1
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Blue,jng,Kiwoom DRX,Xin Zhao,Rumble,Jayce,Orianna,Varus,Corki,1
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Blue,mid,Kiwoom DRX,Taliyah,Rumble,Jayce,Orianna,Varus,Corki,1
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Blue,bot,Kiwoom DRX,Yunara,Rumble,Jayce,Orianna,Varus,Corki,1
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Blue,sup,Kiwoom DRX,Bard,Rumble,Jayce,Orianna,Varus,Corki,1
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Red,top,HANJIN BRION,Renekton,Malphite,Vi,Azir,Lulu,Neeko,0
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Red,jng,HANJIN BRION,Pantheon,Malphite,Vi,Azir,Lulu,Neeko,0
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Red,mid,HANJIN BRION,Ryze,Malphite,Vi,Azir,Lulu,Neeko,0
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Red,bot,HANJIN BRION,Ezreal,Malphite,Vi,Azir,Lulu,Neeko,0
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Red,sup,HANJIN BRION,Braum,Malphite,Vi,Azir,Lulu,Neeko,0
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Blue,team,Kiwoom DRX,,Rumble,Jayce,Orianna,Varus,Corki,1
+LOLTMNT01_326821,LCK,2026-01-28 08:04:54,16.02,Red,team,HANJIN BRION,,Malphite,Vi,Azir,Lulu,Neeko,0
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Blue,top,Kiwoom DRX,Ambessa,Malphite,Varus,Corki,Aphelios,Elise,0
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Blue,jng,Kiwoom DRX,Vi,Malphite,Varus,Corki,Aphelios,Elise,0
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Blue,mid,Kiwoom DRX,Orianna,Malphite,Varus,Corki,Aphelios,Elise,0
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Blue,bot,Kiwoom DRX,Kai'Sa,Malphite,Varus,Corki,Aphelios,Elise,0
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Blue,sup,Kiwoom DRX,Neeko,Malphite,Varus,Corki,Aphelios,Elise,0
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Red,top,HANJIN BRION,Gwen,Jayce,Rumble,Nocturne,Aurora,Kennen,1
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Red,jng,HANJIN BRION,Jarvan IV,Jayce,Rumble,Nocturne,Aurora,Kennen,1
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Red,mid,HANJIN BRION,Azir,Jayce,Rumble,Nocturne,Aurora,Kennen,1
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Red,bot,HANJIN BRION,Sivir,Jayce,Rumble,Nocturne,Aurora,Kennen,1
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Red,sup,HANJIN BRION,Karma,Jayce,Rumble,Nocturne,Aurora,Kennen,1
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Blue,team,Kiwoom DRX,,Malphite,Varus,Corki,Aphelios,Elise,0
+LOLTMNT01_326837,LCK,2026-01-28 09:03:47,16.02,Red,team,HANJIN BRION,,Jayce,Rumble,Nocturne,Aurora,Kennen,1
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Blue,top,HANJIN BRION,Aurora,Malphite,Akali,Corki,Ziggs,Lucian,1
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Blue,jng,HANJIN BRION,Trundle,Malphite,Akali,Corki,Ziggs,Lucian,1
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Blue,mid,HANJIN BRION,Sylas,Malphite,Akali,Corki,Ziggs,Lucian,1
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Blue,bot,HANJIN BRION,Aphelios,Malphite,Akali,Corki,Ziggs,Lucian,1
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Blue,sup,HANJIN BRION,Thresh,Malphite,Akali,Corki,Ziggs,Lucian,1
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Red,top,Kiwoom DRX,Zaahen,Jayce,Varus,Rumble,Kennen,Jax,0
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Red,jng,Kiwoom DRX,Wukong,Jayce,Varus,Rumble,Kennen,Jax,0
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Red,mid,Kiwoom DRX,Ahri,Jayce,Varus,Rumble,Kennen,Jax,0
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Red,bot,Kiwoom DRX,Zeri,Jayce,Varus,Rumble,Kennen,Jax,0
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Red,sup,Kiwoom DRX,Alistar,Jayce,Varus,Rumble,Kennen,Jax,0
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Blue,team,HANJIN BRION,,Malphite,Akali,Corki,Ziggs,Lucian,1
+LOLTMNT01_327784,LCK,2026-01-28 09:59:21,16.02,Red,team,Kiwoom DRX,,Jayce,Varus,Rumble,Kennen,Jax,0
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Blue,top,HANJIN BRION,Yorick,Rumble,Corki,Jayce,Galio,Twisted Fate,0
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Blue,jng,HANJIN BRION,Sejuani,Rumble,Corki,Jayce,Galio,Twisted Fate,0
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Blue,mid,HANJIN BRION,Akali,Rumble,Corki,Jayce,Galio,Twisted Fate,0
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Blue,bot,HANJIN BRION,Kalista,Rumble,Corki,Jayce,Galio,Twisted Fate,0
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Blue,sup,HANJIN BRION,Renata Glasc,Rumble,Corki,Jayce,Galio,Twisted Fate,0
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Red,top,Kiwoom DRX,Jax,Poppy,Varus,Zoe,Lucian,Lulu,1
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Red,jng,Kiwoom DRX,Malphite,Poppy,Varus,Zoe,Lucian,Lulu,1
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Red,mid,Kiwoom DRX,Viktor,Poppy,Varus,Zoe,Lucian,Lulu,1
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Red,bot,Kiwoom DRX,Xayah,Poppy,Varus,Zoe,Lucian,Lulu,1
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Red,sup,Kiwoom DRX,Rakan,Poppy,Varus,Zoe,Lucian,Lulu,1
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Blue,team,HANJIN BRION,,Rumble,Corki,Jayce,Galio,Twisted Fate,0
+LOLTMNT01_327799,LCK,2026-01-28 10:54:21,16.02,Red,team,Kiwoom DRX,,Poppy,Varus,Zoe,Lucian,Lulu,1
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Blue,top,Kiwoom DRX,K'Sante,Rumble,Jayce,Varus,Miss Fortune,Caitlyn,1
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Blue,jng,Kiwoom DRX,Aatrox,Rumble,Jayce,Varus,Miss Fortune,Caitlyn,1
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Blue,mid,Kiwoom DRX,Syndra,Rumble,Jayce,Varus,Miss Fortune,Caitlyn,1
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Blue,bot,Kiwoom DRX,Jhin,Rumble,Jayce,Varus,Miss Fortune,Caitlyn,1
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Blue,sup,Kiwoom DRX,Nautilus,Rumble,Jayce,Varus,Miss Fortune,Caitlyn,1
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Red,top,HANJIN BRION,Sion,Lucian,LeBlanc,Corki,Kennen,Lee Sin,0
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Red,jng,HANJIN BRION,Nocturne,Lucian,LeBlanc,Corki,Kennen,Lee Sin,0
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Red,mid,HANJIN BRION,Zoe,Lucian,LeBlanc,Corki,Kennen,Lee Sin,0
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Red,bot,HANJIN BRION,Tristana,Lucian,LeBlanc,Corki,Kennen,Lee Sin,0
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Red,sup,HANJIN BRION,Rell,Lucian,LeBlanc,Corki,Kennen,Lee Sin,0
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Blue,team,Kiwoom DRX,,Rumble,Jayce,Varus,Miss Fortune,Caitlyn,1
+LOLTMNT01_326904,LCK,2026-01-28 11:49:42,16.02,Red,team,HANJIN BRION,,Lucian,LeBlanc,Corki,Kennen,Lee Sin,0
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Blue,top,BNK FEARX,Renekton,Neeko,Varus,K'Sante,Gnar,Nautilus,1
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Blue,jng,BNK FEARX,Vi,Neeko,Varus,K'Sante,Gnar,Nautilus,1
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Blue,mid,BNK FEARX,Azir,Neeko,Varus,K'Sante,Gnar,Nautilus,1
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Blue,bot,BNK FEARX,Lucian,Neeko,Varus,K'Sante,Gnar,Nautilus,1
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Blue,sup,BNK FEARX,Nami,Neeko,Varus,K'Sante,Gnar,Nautilus,1
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Red,top,DN SOOPers,Sion,Rumble,Jayce,Pantheon,Bard,Ezreal,0
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Red,jng,DN SOOPers,Jarvan IV,Rumble,Jayce,Pantheon,Bard,Ezreal,0
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Red,mid,DN SOOPers,Orianna,Rumble,Jayce,Pantheon,Bard,Ezreal,0
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Red,bot,DN SOOPers,Yunara,Rumble,Jayce,Pantheon,Bard,Ezreal,0
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Red,sup,DN SOOPers,Lulu,Rumble,Jayce,Pantheon,Bard,Ezreal,0
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Blue,team,BNK FEARX,,Neeko,Varus,K'Sante,Gnar,Nautilus,1
+LOLTMNT01_331103,LCK,2026-01-29 08:07:19,16.02,Red,team,DN SOOPers,,Rumble,Jayce,Pantheon,Bard,Ezreal,0
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Blue,top,BNK FEARX,Kennen,Rumble,Jayce,K'Sante,Nautilus,Alistar,1
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Blue,jng,BNK FEARX,Xin Zhao,Rumble,Jayce,K'Sante,Nautilus,Alistar,1
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Blue,mid,BNK FEARX,Ryze,Rumble,Jayce,K'Sante,Nautilus,Alistar,1
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Blue,bot,BNK FEARX,Corki,Rumble,Jayce,K'Sante,Nautilus,Alistar,1
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Blue,sup,BNK FEARX,Bard,Rumble,Jayce,K'Sante,Nautilus,Alistar,1
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Red,top,DN SOOPers,Ambessa,Neeko,Pantheon,Varus,Ezreal,Gwen,0
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Red,jng,DN SOOPers,Wukong,Neeko,Pantheon,Varus,Ezreal,Gwen,0
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Red,mid,DN SOOPers,Taliyah,Neeko,Pantheon,Varus,Ezreal,Gwen,0
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Red,bot,DN SOOPers,Sivir,Neeko,Pantheon,Varus,Ezreal,Gwen,0
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Red,sup,DN SOOPers,Rakan,Neeko,Pantheon,Varus,Ezreal,Gwen,0
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Blue,team,BNK FEARX,,Rumble,Jayce,K'Sante,Nautilus,Alistar,1
+LOLTMNT01_332133,LCK,2026-01-29 09:07:12,16.02,Red,team,DN SOOPers,,Neeko,Pantheon,Varus,Ezreal,Gwen,0
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Blue,top,BNK FEARX,Gnar,Rumble,Jayce,Varus,Sylas,Zoe,0
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Blue,jng,BNK FEARX,Aatrox,Rumble,Jayce,Varus,Sylas,Zoe,0
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Blue,mid,BNK FEARX,Aurora,Rumble,Jayce,Varus,Sylas,Zoe,0
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Blue,bot,BNK FEARX,Ezreal,Rumble,Jayce,Varus,Sylas,Zoe,0
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Blue,sup,BNK FEARX,Rell,Rumble,Jayce,Varus,Sylas,Zoe,0
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Red,top,DN SOOPers,K'Sante,Pantheon,Nocturne,Karma,Alistar,Leona,1
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Red,jng,DN SOOPers,Lee Sin,Pantheon,Nocturne,Karma,Alistar,Leona,1
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Red,mid,DN SOOPers,Syndra,Pantheon,Nocturne,Karma,Alistar,Leona,1
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Red,bot,DN SOOPers,Kai'Sa,Pantheon,Nocturne,Karma,Alistar,Leona,1
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Red,sup,DN SOOPers,Neeko,Pantheon,Nocturne,Karma,Alistar,Leona,1
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Blue,team,BNK FEARX,,Rumble,Jayce,Varus,Sylas,Zoe,0
+LOLTMNT01_332152,LCK,2026-01-29 09:53:36,16.02,Red,team,DN SOOPers,,Pantheon,Nocturne,Karma,Alistar,Leona,1
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Blue,top,DN SOOPers,Rek'Sai,Rumble,Varus,Akali,LeBlanc,Gwen,0
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Blue,jng,DN SOOPers,Sejuani,Rumble,Varus,Akali,LeBlanc,Gwen,0
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Blue,mid,DN SOOPers,Yone,Rumble,Varus,Akali,LeBlanc,Gwen,0
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Blue,bot,DN SOOPers,Ziggs,Rumble,Varus,Akali,LeBlanc,Gwen,0
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Blue,sup,DN SOOPers,Pantheon,Rumble,Varus,Akali,LeBlanc,Gwen,0
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Red,top,BNK FEARX,Jax,Nocturne,Sylas,Malphite,Alistar,Zaahen,1
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Red,jng,BNK FEARX,Lillia,Nocturne,Sylas,Malphite,Alistar,Zaahen,1
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Red,mid,BNK FEARX,Jayce,Nocturne,Sylas,Malphite,Alistar,Zaahen,1
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Red,bot,BNK FEARX,Jhin,Nocturne,Sylas,Malphite,Alistar,Zaahen,1
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Red,sup,BNK FEARX,Leona,Nocturne,Sylas,Malphite,Alistar,Zaahen,1
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Blue,team,DN SOOPers,,Rumble,Varus,Akali,LeBlanc,Gwen,0
+LOLTMNT01_332170,LCK,2026-01-29 10:47:32,16.02,Red,team,BNK FEARX,,Nocturne,Sylas,Malphite,Alistar,Zaahen,1
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Blue,top,KT Rolster,Ambessa,Rumble,Orianna,Jayce,Renekton,Gwen,0
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Blue,jng,KT Rolster,Vi,Rumble,Orianna,Jayce,Renekton,Gwen,0
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Blue,mid,KT Rolster,Taliyah,Rumble,Orianna,Jayce,Renekton,Gwen,0
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Blue,bot,KT Rolster,Corki,Rumble,Orianna,Jayce,Renekton,Gwen,0
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Blue,sup,KT Rolster,Nautilus,Rumble,Orianna,Jayce,Renekton,Gwen,0
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Red,top,Nongshim RedForce,Aatrox,Malphite,Azir,Varus,Aphelios,Braum,1
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Red,jng,Nongshim RedForce,Pantheon,Malphite,Azir,Varus,Aphelios,Braum,1
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Red,mid,Nongshim RedForce,Ryze,Malphite,Azir,Varus,Aphelios,Braum,1
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Red,bot,Nongshim RedForce,Yunara,Malphite,Azir,Varus,Aphelios,Braum,1
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Red,sup,Nongshim RedForce,Neeko,Malphite,Azir,Varus,Aphelios,Braum,1
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Blue,team,KT Rolster,,Rumble,Orianna,Jayce,Renekton,Gwen,0
+LOLTMNT01_331607,LCK,2026-01-30 08:05:48,16.02,Red,team,Nongshim RedForce,,Malphite,Azir,Varus,Aphelios,Braum,1
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Blue,top,Nongshim RedForce,Gnar,Jayce,Rumble,Varus,Braum,Ziggs,1
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Blue,jng,Nongshim RedForce,Xin Zhao,Jayce,Rumble,Varus,Braum,Ziggs,1
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Blue,mid,Nongshim RedForce,Orianna,Jayce,Rumble,Varus,Braum,Ziggs,1
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Blue,bot,Nongshim RedForce,Kalista,Jayce,Rumble,Varus,Braum,Ziggs,1
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Blue,sup,Nongshim RedForce,Renata Glasc,Jayce,Rumble,Varus,Braum,Ziggs,1
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Red,top,KT Rolster,Renekton,Malphite,Nocturne,Jarvan IV,Aphelios,Rakan,0
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Red,jng,KT Rolster,Wukong,Malphite,Nocturne,Jarvan IV,Aphelios,Rakan,0
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Red,mid,KT Rolster,Azir,Malphite,Nocturne,Jarvan IV,Aphelios,Rakan,0
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Red,bot,KT Rolster,Ezreal,Malphite,Nocturne,Jarvan IV,Aphelios,Rakan,0
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Red,sup,KT Rolster,Karma,Malphite,Nocturne,Jarvan IV,Aphelios,Rakan,0
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Blue,team,Nongshim RedForce,,Jayce,Rumble,Varus,Braum,Ziggs,1
+LOLTMNT01_332667,LCK,2026-01-30 08:56:59,16.02,Red,team,KT Rolster,,Malphite,Nocturne,Jarvan IV,Aphelios,Rakan,0
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Blue,top,Nongshim RedForce,K'Sante,Aurora,Jarvan IV,Sylas,Zoe,Jax,0
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Blue,jng,Nongshim RedForce,Malphite,Aurora,Jarvan IV,Sylas,Zoe,Jax,0
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Blue,mid,Nongshim RedForce,Yone,Aurora,Jarvan IV,Sylas,Zoe,Jax,0
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Blue,bot,Nongshim RedForce,Jinx,Aurora,Jarvan IV,Sylas,Zoe,Jax,0
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Blue,sup,Nongshim RedForce,Lulu,Aurora,Jarvan IV,Sylas,Zoe,Jax,0
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Red,top,KT Rolster,Zaahen,Rumble,Jayce,Varus,Akali,Kennen,1
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Red,jng,KT Rolster,Dr. Mundo,Rumble,Jayce,Varus,Akali,Kennen,1
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Red,mid,KT Rolster,Ahri,Rumble,Jayce,Varus,Akali,Kennen,1
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Red,bot,KT Rolster,Aphelios,Rumble,Jayce,Varus,Akali,Kennen,1
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Red,sup,KT Rolster,Blitzcrank,Rumble,Jayce,Varus,Akali,Kennen,1
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Blue,team,Nongshim RedForce,,Aurora,Jarvan IV,Sylas,Zoe,Jax,0
+LOLTMNT01_331640,LCK,2026-01-30 09:57:18,16.02,Red,team,KT Rolster,,Rumble,Jayce,Varus,Akali,Kennen,1
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Blue,top,KT Rolster,Rek'Sai,Rumble,Jayce,Varus,Bard,Elise,1
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Blue,jng,KT Rolster,Jax,Rumble,Jayce,Varus,Bard,Elise,1
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Blue,mid,KT Rolster,Akali,Rumble,Jayce,Varus,Bard,Elise,1
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Blue,bot,KT Rolster,Lucian,Rumble,Jayce,Varus,Bard,Elise,1
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Blue,sup,KT Rolster,Braum,Rumble,Jayce,Varus,Bard,Elise,1
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Red,top,Nongshim RedForce,Gragas,Nocturne,Aurora,Leona,Trundle,Gwen,0
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Red,jng,Nongshim RedForce,Jarvan IV,Nocturne,Aurora,Leona,Trundle,Gwen,0
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Red,mid,Nongshim RedForce,Galio,Nocturne,Aurora,Leona,Trundle,Gwen,0
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Red,bot,Nongshim RedForce,Caitlyn,Nocturne,Aurora,Leona,Trundle,Gwen,0
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Red,sup,Nongshim RedForce,Tahm Kench,Nocturne,Aurora,Leona,Trundle,Gwen,0
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Blue,team,KT Rolster,,Rumble,Jayce,Varus,Bard,Elise,1
+LOLTMNT01_331650,LCK,2026-01-30 10:47:33,16.02,Red,team,Nongshim RedForce,,Nocturne,Aurora,Leona,Trundle,Gwen,0
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Blue,top,KT Rolster,Sion,Rumble,Jayce,Varus,Leona,Rell,0
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Blue,jng,KT Rolster,Nocturne,Rumble,Jayce,Varus,Leona,Rell,0
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Blue,mid,KT Rolster,Syndra,Rumble,Jayce,Varus,Leona,Rell,0
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Blue,bot,KT Rolster,Miss Fortune,Rumble,Jayce,Varus,Leona,Rell,0
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Blue,sup,KT Rolster,Rakan,Rumble,Jayce,Varus,Leona,Rell,0
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Red,top,Nongshim RedForce,Olaf,Alistar,Gwen,Zoe,Xayah,Zeri,1
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Red,jng,Nongshim RedForce,Trundle,Alistar,Gwen,Zoe,Xayah,Zeri,1
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Red,mid,Nongshim RedForce,Aurora,Alistar,Gwen,Zoe,Xayah,Zeri,1
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Red,bot,Nongshim RedForce,Kai'Sa,Alistar,Gwen,Zoe,Xayah,Zeri,1
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Red,sup,Nongshim RedForce,Shen,Alistar,Gwen,Zoe,Xayah,Zeri,1
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Blue,team,KT Rolster,,Rumble,Jayce,Varus,Leona,Rell,0
+LOLTMNT01_332727,LCK,2026-01-30 11:49:42,16.02,Red,team,Nongshim RedForce,,Alistar,Gwen,Zoe,Xayah,Zeri,1
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Blue,top,Dplus Kia,Rumble,Jayce,Bard,Nocturne,Sivir,Kai'Sa,0
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Blue,jng,Dplus Kia,Xin Zhao,Jayce,Bard,Nocturne,Sivir,Kai'Sa,0
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Blue,mid,Dplus Kia,Orianna,Jayce,Bard,Nocturne,Sivir,Kai'Sa,0
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Blue,bot,Dplus Kia,Ezreal,Jayce,Bard,Nocturne,Sivir,Kai'Sa,0
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Blue,sup,Dplus Kia,Karma,Jayce,Bard,Nocturne,Sivir,Kai'Sa,0
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Red,top,T1,Ambessa,Malphite,Varus,Vi,Yunara,Nami,1
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Red,jng,T1,Jarvan IV,Malphite,Varus,Vi,Yunara,Nami,1
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Red,mid,T1,Azir,Malphite,Varus,Vi,Yunara,Nami,1
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Red,bot,T1,Jhin,Malphite,Varus,Vi,Yunara,Nami,1
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Red,sup,T1,Neeko,Malphite,Varus,Vi,Yunara,Nami,1
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Blue,team,Dplus Kia,,Jayce,Bard,Nocturne,Sivir,Kai'Sa,0
+LOLTMNT01_334295,LCK,2026-01-31 08:17:53,16.02,Red,team,T1,,Malphite,Varus,Vi,Yunara,Nami,1
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Blue,top,T1,Sion,Malphite,Varus,Gwen,Rek'Sai,Nami,1
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Blue,jng,T1,Vi,Malphite,Varus,Gwen,Rek'Sai,Nami,1
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Blue,mid,T1,Ryze,Malphite,Varus,Gwen,Rek'Sai,Nami,1
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Blue,bot,T1,Kai'Sa,Malphite,Varus,Gwen,Rek'Sai,Nami,1
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Blue,sup,T1,Nautilus,Malphite,Varus,Gwen,Rek'Sai,Nami,1
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Red,top,Dplus Kia,Zaahen,Jayce,Bard,Aphelios,Yunara,Ashe,0
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Red,jng,Dplus Kia,Wukong,Jayce,Bard,Aphelios,Yunara,Ashe,0
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Red,mid,Dplus Kia,Anivia,Jayce,Bard,Aphelios,Yunara,Ashe,0
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Red,bot,Dplus Kia,Corki,Jayce,Bard,Aphelios,Yunara,Ashe,0
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Red,sup,Dplus Kia,Alistar,Jayce,Bard,Aphelios,Yunara,Ashe,0
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Blue,team,T1,,Malphite,Varus,Gwen,Rek'Sai,Nami,1
+LOLTMNT01_334313,LCK,2026-01-31 09:15:38,16.02,Red,team,Dplus Kia,,Jayce,Bard,Aphelios,Yunara,Ashe,0
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Blue,top,T1,Kennen,Malphite,K'Sante,Lulu,Twisted Fate,Gwen,1
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Blue,jng,T1,Nocturne,Malphite,K'Sante,Lulu,Twisted Fate,Gwen,1
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Blue,mid,T1,Galio,Malphite,K'Sante,Lulu,Twisted Fate,Gwen,1
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Blue,bot,T1,Varus,Malphite,K'Sante,Lulu,Twisted Fate,Gwen,1
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Blue,sup,T1,Rell,Malphite,K'Sante,Lulu,Twisted Fate,Gwen,1
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Red,top,Dplus Kia,Yorick,Jayce,Bard,Aurora,Blitzcrank,Ashe,0
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Red,jng,Dplus Kia,Pantheon,Jayce,Bard,Aurora,Blitzcrank,Ashe,0
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Red,mid,Dplus Kia,Ahri,Jayce,Bard,Aurora,Blitzcrank,Ashe,0
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Red,bot,Dplus Kia,Lucian,Jayce,Bard,Aurora,Blitzcrank,Ashe,0
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Red,sup,Dplus Kia,Nami,Jayce,Bard,Aurora,Blitzcrank,Ashe,0
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Blue,team,T1,,Malphite,K'Sante,Lulu,Twisted Fate,Gwen,1
+LOLTMNT01_333373,LCK,2026-01-31 10:06:58,16.02,Red,team,Dplus Kia,,Jayce,Bard,Aurora,Blitzcrank,Ashe,0
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Blue,top,Gen.G,Aurora,Jayce,Varus,Rumble,Nami,Bard,1
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Blue,jng,Gen.G,Vi,Jayce,Varus,Rumble,Nami,Bard,1
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Blue,mid,Gen.G,Yone,Jayce,Varus,Rumble,Nami,Bard,1
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Blue,bot,Gen.G,Yunara,Jayce,Varus,Rumble,Nami,Bard,1
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Blue,sup,Gen.G,Neeko,Jayce,Varus,Rumble,Nami,Bard,1
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Red,top,Hanwha Life Esports,K'Sante,Ambessa,Orianna,Malphite,Taliyah,Akali,0
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Red,jng,Hanwha Life Esports,Xin Zhao,Ambessa,Orianna,Malphite,Taliyah,Akali,0
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Red,mid,Hanwha Life Esports,Azir,Ambessa,Orianna,Malphite,Taliyah,Akali,0
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Red,bot,Hanwha Life Esports,Corki,Ambessa,Orianna,Malphite,Taliyah,Akali,0
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Red,sup,Hanwha Life Esports,Rakan,Ambessa,Orianna,Malphite,Taliyah,Akali,0
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Blue,team,Gen.G,,Jayce,Varus,Rumble,Nami,Bard,1
+LOLTMNT01_336016,LCK,2026-02-01 08:08:08,16.02,Red,team,Hanwha Life Esports,,Ambessa,Orianna,Malphite,Taliyah,Akali,0
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Blue,top,Gen.G,Gnar,Rumble,Varus,Jayce,Sivir,Kalista,1
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Blue,jng,Gen.G,Aatrox,Rumble,Varus,Jayce,Sivir,Kalista,1
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Blue,mid,Gen.G,Galio,Rumble,Varus,Jayce,Sivir,Kalista,1
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Blue,bot,Gen.G,Jhin,Rumble,Varus,Jayce,Sivir,Kalista,1
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Blue,sup,Gen.G,Bard,Rumble,Varus,Jayce,Sivir,Kalista,1
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Red,top,Hanwha Life Esports,Renekton,Ambessa,Sion,Ryze,Ezreal,Lucian,0
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Red,jng,Hanwha Life Esports,Jarvan IV,Ambessa,Sion,Ryze,Ezreal,Lucian,0
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Red,mid,Hanwha Life Esports,Orianna,Ambessa,Sion,Ryze,Ezreal,Lucian,0
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Red,bot,Hanwha Life Esports,Miss Fortune,Ambessa,Sion,Ryze,Ezreal,Lucian,0
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Red,sup,Hanwha Life Esports,Rell,Ambessa,Sion,Ryze,Ezreal,Lucian,0
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Blue,team,Gen.G,,Rumble,Varus,Jayce,Sivir,Kalista,1
+LOLTMNT01_336021,LCK,2026-02-01 09:10:50,16.02,Red,team,Hanwha Life Esports,,Ambessa,Sion,Ryze,Ezreal,Lucian,0
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Blue,top,Gen.G,Ornn,Malphite,Ambessa,Poppy,Ashe,Kalista,1
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Blue,jng,Gen.G,Pantheon,Malphite,Ambessa,Poppy,Ashe,Kalista,1
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Blue,mid,Gen.G,Cassiopeia,Malphite,Ambessa,Poppy,Ashe,Kalista,1
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Blue,bot,Gen.G,Aphelios,Malphite,Ambessa,Poppy,Ashe,Kalista,1
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Blue,sup,Gen.G,Thresh,Malphite,Ambessa,Poppy,Ashe,Kalista,1
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Red,top,Hanwha Life Esports,Rumble,Varus,Jayce,Wukong,Ezreal,Lulu,0
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Red,jng,Hanwha Life Esports,Trundle,Varus,Jayce,Wukong,Ezreal,Lulu,0
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Red,mid,Hanwha Life Esports,Ryze,Varus,Jayce,Wukong,Ezreal,Lulu,0
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Red,bot,Hanwha Life Esports,Sivir,Varus,Jayce,Wukong,Ezreal,Lulu,0
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Red,sup,Hanwha Life Esports,Alistar,Varus,Jayce,Wukong,Ezreal,Lulu,0
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Blue,team,Gen.G,,Malphite,Ambessa,Poppy,Ashe,Kalista,1
+LOLTMNT01_335069,LCK,2026-02-01 10:09:06,16.02,Red,team,Hanwha Life Esports,,Varus,Jayce,Wukong,Ezreal,Lulu,0
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Blue,top,HANJIN BRION,Rumble,Jayce,Varus,Vi,Bard,Lulu,0
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Blue,jng,HANJIN BRION,Pantheon,Jayce,Varus,Vi,Bard,Lulu,0
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Blue,mid,HANJIN BRION,Ryze,Jayce,Varus,Vi,Bard,Lulu,0
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Blue,bot,HANJIN BRION,Corki,Jayce,Varus,Vi,Bard,Lulu,0
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Blue,sup,HANJIN BRION,Alistar,Jayce,Varus,Vi,Bard,Lulu,0
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Red,top,Kiwoom DRX,Ambessa,Malphite,Jarvan IV,Azir,Neeko,Akali,1
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Red,jng,Kiwoom DRX,Xin Zhao,Malphite,Jarvan IV,Azir,Neeko,Akali,1
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Red,mid,Kiwoom DRX,Orianna,Malphite,Jarvan IV,Azir,Neeko,Akali,1
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Red,bot,Kiwoom DRX,Yunara,Malphite,Jarvan IV,Azir,Neeko,Akali,1
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Red,sup,Kiwoom DRX,Nautilus,Malphite,Jarvan IV,Azir,Neeko,Akali,1
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Blue,team,HANJIN BRION,,Jayce,Varus,Vi,Bard,Lulu,0
+LOLTMNT01_338397,LCK,2026-02-06 08:05:10,16.02,Red,team,Kiwoom DRX,,Malphite,Jarvan IV,Azir,Neeko,Akali,1
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Blue,top,Kiwoom DRX,Gwen,Malphite,Kennen,Gnar,Neeko,Poppy,0
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Blue,jng,Kiwoom DRX,Jarvan IV,Malphite,Kennen,Gnar,Neeko,Poppy,0
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Blue,mid,Kiwoom DRX,Azir,Malphite,Kennen,Gnar,Neeko,Poppy,0
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Blue,bot,Kiwoom DRX,Xayah,Malphite,Kennen,Gnar,Neeko,Poppy,0
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Blue,sup,Kiwoom DRX,Rakan,Malphite,Kennen,Gnar,Neeko,Poppy,0
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Red,top,HANJIN BRION,Aurora,Jayce,Varus,Renekton,Bard,Sivir,1
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Red,jng,HANJIN BRION,Vi,Jayce,Varus,Renekton,Bard,Sivir,1
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Red,mid,HANJIN BRION,Taliyah,Jayce,Varus,Renekton,Bard,Sivir,1
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Red,bot,HANJIN BRION,Ezreal,Jayce,Varus,Renekton,Bard,Sivir,1
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Red,sup,HANJIN BRION,Elise,Jayce,Varus,Renekton,Bard,Sivir,1
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Blue,team,Kiwoom DRX,,Malphite,Kennen,Gnar,Neeko,Poppy,0
+LOLTMNT01_338416,LCK,2026-02-06 08:50:09,16.02,Red,team,HANJIN BRION,,Jayce,Varus,Renekton,Bard,Sivir,1
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Blue,top,HANJIN BRION,Aatrox,Jayce,Varus,Renekton,Nocturne,Nami,0
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Blue,jng,HANJIN BRION,Wukong,Jayce,Varus,Renekton,Nocturne,Nami,0
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Blue,mid,HANJIN BRION,Cassiopeia,Jayce,Varus,Renekton,Nocturne,Nami,0
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Blue,bot,HANJIN BRION,Aphelios,Jayce,Varus,Renekton,Nocturne,Nami,0
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Blue,sup,HANJIN BRION,Lulu,Jayce,Varus,Renekton,Nocturne,Nami,0
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Red,top,Kiwoom DRX,K'Sante,Malphite,Kennen,Gnar,Yorick,Rek'Sai,1
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Red,jng,Kiwoom DRX,Zaahen,Malphite,Kennen,Gnar,Yorick,Rek'Sai,1
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Red,mid,Kiwoom DRX,Galio,Malphite,Kennen,Gnar,Yorick,Rek'Sai,1
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Red,bot,Kiwoom DRX,Lucian,Malphite,Kennen,Gnar,Yorick,Rek'Sai,1
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Red,sup,Kiwoom DRX,Sona,Malphite,Kennen,Gnar,Yorick,Rek'Sai,1
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Blue,team,HANJIN BRION,,Jayce,Varus,Renekton,Nocturne,Nami,0
+LOLTMNT01_338422,LCK,2026-02-06 09:45:35,16.02,Red,team,Kiwoom DRX,,Malphite,Kennen,Gnar,Yorick,Rek'Sai,1
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Blue,top,DN SOOPers,Gwen,Jayce,Rumble,Varus,Poppy,Lulu,1
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Blue,jng,DN SOOPers,Ambessa,Jayce,Rumble,Varus,Poppy,Lulu,1
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Blue,mid,DN SOOPers,Akali,Jayce,Rumble,Varus,Poppy,Lulu,1
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Blue,bot,DN SOOPers,Ezreal,Jayce,Rumble,Varus,Poppy,Lulu,1
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Blue,sup,DN SOOPers,Neeko,Jayce,Rumble,Varus,Poppy,Lulu,1
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Red,top,KT Rolster,Renekton,Malphite,Pantheon,Orianna,Kennen,Kai'Sa,0
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Red,jng,KT Rolster,Vi,Malphite,Pantheon,Orianna,Kennen,Kai'Sa,0
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Red,mid,KT Rolster,Azir,Malphite,Pantheon,Orianna,Kennen,Kai'Sa,0
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Red,bot,KT Rolster,Corki,Malphite,Pantheon,Orianna,Kennen,Kai'Sa,0
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Red,sup,KT Rolster,Nami,Malphite,Pantheon,Orianna,Kennen,Kai'Sa,0
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Blue,team,DN SOOPers,,Jayce,Rumble,Varus,Poppy,Lulu,1
+LOLTMNT01_338447,LCK,2026-02-06 10:59:51,16.02,Red,team,KT Rolster,,Malphite,Pantheon,Orianna,Kennen,Kai'Sa,0
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Blue,top,DN SOOPers,Rek'Sai,Rumble,Varus,Cassiopeia,Braum,Nautilus,1
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Blue,jng,DN SOOPers,Lee Sin,Rumble,Varus,Cassiopeia,Braum,Nautilus,1
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Blue,mid,DN SOOPers,Ryze,Rumble,Varus,Cassiopeia,Braum,Nautilus,1
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Blue,bot,DN SOOPers,Yunara,Rumble,Varus,Cassiopeia,Braum,Nautilus,1
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Blue,sup,DN SOOPers,Rell,Rumble,Varus,Cassiopeia,Braum,Nautilus,1
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Red,top,KT Rolster,Sion,Malphite,Orianna,Aphelios,Zaahen,Lulu,0
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Red,jng,KT Rolster,Jayce,Malphite,Orianna,Aphelios,Zaahen,Lulu,0
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Red,mid,KT Rolster,Taliyah,Malphite,Orianna,Aphelios,Zaahen,Lulu,0
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Red,bot,KT Rolster,Caitlyn,Malphite,Orianna,Aphelios,Zaahen,Lulu,0
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Red,sup,KT Rolster,Bard,Malphite,Orianna,Aphelios,Zaahen,Lulu,0
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Blue,team,DN SOOPers,,Rumble,Varus,Cassiopeia,Braum,Nautilus,1
+LOLTMNT01_338459,LCK,2026-02-06 12:11:32,16.02,Red,team,KT Rolster,,Malphite,Orianna,Aphelios,Zaahen,Lulu,0
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Blue,top,Dplus Kia,Ornn,Jayce,Varus,Orianna,Nautilus,Nami,1
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Blue,jng,Dplus Kia,Jarvan IV,Jayce,Varus,Orianna,Nautilus,Nami,1
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Blue,mid,Dplus Kia,Ahri,Jayce,Varus,Orianna,Nautilus,Nami,1
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Blue,bot,Dplus Kia,Yunara,Jayce,Varus,Orianna,Nautilus,Nami,1
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Blue,sup,Dplus Kia,Lulu,Jayce,Varus,Orianna,Nautilus,Nami,1
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Red,top,Kiwoom DRX,Rumble,Ambessa,Ryze,Azir,K'Sante,Gwen,0
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Red,jng,Kiwoom DRX,Xin Zhao,Ambessa,Ryze,Azir,K'Sante,Gwen,0
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Red,mid,Kiwoom DRX,Taliyah,Ambessa,Ryze,Azir,K'Sante,Gwen,0
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Red,bot,Kiwoom DRX,Corki,Ambessa,Ryze,Azir,K'Sante,Gwen,0
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Red,sup,Kiwoom DRX,Neeko,Ambessa,Ryze,Azir,K'Sante,Gwen,0
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Blue,team,Dplus Kia,,Jayce,Varus,Orianna,Nautilus,Nami,1
+LOLTMNT01_338589,LCK,2026-02-07 08:07:00,16.02,Red,team,Kiwoom DRX,,Ambessa,Ryze,Azir,K'Sante,Gwen,0
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Blue,top,Dplus Kia,Kennen,Orianna,Jayce,Varus,Ziggs,Sivir,1
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Blue,jng,Dplus Kia,Pantheon,Orianna,Jayce,Varus,Ziggs,Sivir,1
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Blue,mid,Dplus Kia,Cassiopeia,Orianna,Jayce,Varus,Ziggs,Sivir,1
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Blue,bot,Dplus Kia,Lucian,Orianna,Jayce,Varus,Ziggs,Sivir,1
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Blue,sup,Dplus Kia,Braum,Orianna,Jayce,Varus,Ziggs,Sivir,1
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Red,top,Kiwoom DRX,Sion,Azir,Vi,Ryze,Gwen,Renekton,0
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Red,jng,Kiwoom DRX,Ambessa,Azir,Vi,Ryze,Gwen,Renekton,0
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Red,mid,Kiwoom DRX,Aurora,Azir,Vi,Ryze,Gwen,Renekton,0
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Red,bot,Kiwoom DRX,Ezreal,Azir,Vi,Ryze,Gwen,Renekton,0
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Red,sup,Kiwoom DRX,Nautilus,Azir,Vi,Ryze,Gwen,Renekton,0
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Blue,team,Dplus Kia,,Orianna,Jayce,Varus,Ziggs,Sivir,1
+LOLTMNT01_338603,LCK,2026-02-07 08:55:19,16.02,Red,team,Kiwoom DRX,,Azir,Vi,Ryze,Gwen,Renekton,0
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Blue,top,DN SOOPers,Rek'Sai,Rumble,Varus,Orianna,Bard,Neeko,0
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Blue,jng,DN SOOPers,Jayce,Rumble,Varus,Orianna,Bard,Neeko,0
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Blue,mid,DN SOOPers,Anivia,Rumble,Varus,Orianna,Bard,Neeko,0
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Blue,bot,DN SOOPers,Corki,Rumble,Varus,Orianna,Bard,Neeko,0
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Blue,sup,DN SOOPers,Nautilus,Rumble,Varus,Orianna,Bard,Neeko,0
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Red,top,Nongshim RedForce,Ambessa,Malphite,Vi,Azir,Nami,Renekton,1
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Red,jng,Nongshim RedForce,Jarvan IV,Malphite,Vi,Azir,Nami,Renekton,1
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Red,mid,Nongshim RedForce,Ryze,Malphite,Vi,Azir,Nami,Renekton,1
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Red,bot,Nongshim RedForce,Yunara,Malphite,Vi,Azir,Nami,Renekton,1
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Red,sup,Nongshim RedForce,Leona,Malphite,Vi,Azir,Nami,Renekton,1
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Blue,team,DN SOOPers,,Rumble,Varus,Orianna,Bard,Neeko,0
+LOLTMNT01_338625,LCK,2026-02-07 10:09:22,16.02,Red,team,Nongshim RedForce,,Malphite,Vi,Azir,Nami,Renekton,1
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Blue,top,Nongshim RedForce,K'Sante,Varus,Neeko,Orianna,Poppy,Bard,0
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Blue,jng,Nongshim RedForce,Vi,Varus,Neeko,Orianna,Poppy,Bard,0
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Blue,mid,Nongshim RedForce,Akali,Varus,Neeko,Orianna,Poppy,Bard,0
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Blue,bot,Nongshim RedForce,Lucian,Varus,Neeko,Orianna,Poppy,Bard,0
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Blue,sup,Nongshim RedForce,Nami,Varus,Neeko,Orianna,Poppy,Bard,0
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Red,top,DN SOOPers,Rumble,Pantheon,Nocturne,Azir,Renata Glasc,Lulu,1
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Red,jng,DN SOOPers,Wukong,Pantheon,Nocturne,Azir,Renata Glasc,Lulu,1
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Red,mid,DN SOOPers,Ahri,Pantheon,Nocturne,Azir,Renata Glasc,Lulu,1
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Red,bot,DN SOOPers,Xayah,Pantheon,Nocturne,Azir,Renata Glasc,Lulu,1
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Red,sup,DN SOOPers,Rakan,Pantheon,Nocturne,Azir,Renata Glasc,Lulu,1
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Blue,team,Nongshim RedForce,,Varus,Neeko,Orianna,Poppy,Bard,0
+LOLTMNT01_337768,LCK,2026-02-07 11:00:32,16.02,Red,team,DN SOOPers,,Pantheon,Nocturne,Azir,Renata Glasc,Lulu,1
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Blue,top,DN SOOPers,Gwen,Varus,Pantheon,Poppy,Sivir,Kalista,1
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Blue,jng,DN SOOPers,Lee Sin,Varus,Pantheon,Poppy,Sivir,Kalista,1
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Blue,mid,DN SOOPers,Orianna,Varus,Pantheon,Poppy,Sivir,Kalista,1
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Blue,bot,DN SOOPers,Ezreal,Varus,Pantheon,Poppy,Sivir,Kalista,1
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Blue,sup,DN SOOPers,Rell,Varus,Pantheon,Poppy,Sivir,Kalista,1
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Red,top,Nongshim RedForce,Sion,Malphite,Neeko,Nocturne,Karma,Braum,0
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Red,jng,Nongshim RedForce,Xin Zhao,Malphite,Neeko,Nocturne,Karma,Braum,0
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Red,mid,Nongshim RedForce,Azir,Malphite,Neeko,Nocturne,Karma,Braum,0
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Red,bot,Nongshim RedForce,Kai'Sa,Malphite,Neeko,Nocturne,Karma,Braum,0
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Red,sup,Nongshim RedForce,Alistar,Malphite,Neeko,Nocturne,Karma,Braum,0
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Blue,team,DN SOOPers,,Varus,Pantheon,Poppy,Sivir,Kalista,1
+LOLTMNT01_338644,LCK,2026-02-07 11:54:25,16.02,Red,team,Nongshim RedForce,,Malphite,Neeko,Nocturne,Karma,Braum,0
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Blue,top,Nongshim RedForce,Ambessa,Varus,Bard,Xin Zhao,Renekton,Dr. Mundo,0
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Blue,jng,Nongshim RedForce,Malphite,Varus,Bard,Xin Zhao,Renekton,Dr. Mundo,0
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Blue,mid,Nongshim RedForce,Orianna,Varus,Bard,Xin Zhao,Renekton,Dr. Mundo,0
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Blue,bot,Nongshim RedForce,Lucian,Varus,Bard,Xin Zhao,Renekton,Dr. Mundo,0
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Blue,sup,Nongshim RedForce,Braum,Varus,Bard,Xin Zhao,Renekton,Dr. Mundo,0
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Red,top,Kiwoom DRX,Gwen,Neeko,Jarvan IV,Rumble,Leona,Alistar,1
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Red,jng,Kiwoom DRX,Pantheon,Neeko,Jarvan IV,Rumble,Leona,Alistar,1
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Red,mid,Kiwoom DRX,Azir,Neeko,Jarvan IV,Rumble,Leona,Alistar,1
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Red,bot,Kiwoom DRX,Yunara,Neeko,Jarvan IV,Rumble,Leona,Alistar,1
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Red,sup,Kiwoom DRX,Nautilus,Neeko,Jarvan IV,Rumble,Leona,Alistar,1
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Blue,team,Nongshim RedForce,,Varus,Bard,Xin Zhao,Renekton,Dr. Mundo,0
+LOLTMNT01_338745,LCK,2026-02-08 08:06:06,16.02,Red,team,Kiwoom DRX,,Neeko,Jarvan IV,Rumble,Leona,Alistar,1
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Blue,top,Kiwoom DRX,K'Sante,Varus,Rumble,Neeko,Kai'Sa,Kalista,1
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Blue,jng,Kiwoom DRX,Jarvan IV,Varus,Rumble,Neeko,Kai'Sa,Kalista,1
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Blue,mid,Kiwoom DRX,Syndra,Varus,Rumble,Neeko,Kai'Sa,Kalista,1
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Blue,bot,Kiwoom DRX,Corki,Varus,Rumble,Neeko,Kai'Sa,Kalista,1
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Blue,sup,Kiwoom DRX,Alistar,Varus,Rumble,Neeko,Kai'Sa,Kalista,1
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Red,top,Nongshim RedForce,Sion,Bard,Xin Zhao,Ryze,Nami,Ahri,0
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Red,jng,Nongshim RedForce,Vi,Bard,Xin Zhao,Ryze,Nami,Ahri,0
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Red,mid,Nongshim RedForce,Taliyah,Bard,Xin Zhao,Ryze,Nami,Ahri,0
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Red,bot,Nongshim RedForce,Ezreal,Bard,Xin Zhao,Ryze,Nami,Ahri,0
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Red,sup,Nongshim RedForce,Leona,Bard,Xin Zhao,Ryze,Nami,Ahri,0
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Blue,team,Kiwoom DRX,,Varus,Rumble,Neeko,Kai'Sa,Kalista,1
+LOLTMNT01_337856,LCK,2026-02-08 08:59:00,16.02,Red,team,Nongshim RedForce,,Bard,Xin Zhao,Ryze,Nami,Ahri,0
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Blue,top,Kiwoom DRX,Gnar,Ryze,Rumble,Jayce,Rell,Rakan,1
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Blue,jng,Kiwoom DRX,Xin Zhao,Ryze,Rumble,Jayce,Rell,Rakan,1
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Blue,mid,Kiwoom DRX,Aurora,Ryze,Rumble,Jayce,Rell,Rakan,1
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Blue,bot,Kiwoom DRX,Sivir,Ryze,Rumble,Jayce,Rell,Rakan,1
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Blue,sup,Kiwoom DRX,Karma,Ryze,Rumble,Jayce,Rell,Rakan,1
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Red,top,Nongshim RedForce,Renekton,Bard,Nocturne,Neeko,Lulu,Kennen,0
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Red,jng,Nongshim RedForce,Wukong,Bard,Nocturne,Neeko,Lulu,Kennen,0
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Red,mid,Nongshim RedForce,Viktor,Bard,Nocturne,Neeko,Lulu,Kennen,0
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Red,bot,Nongshim RedForce,Varus,Bard,Nocturne,Neeko,Lulu,Kennen,0
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Red,sup,Nongshim RedForce,Renata Glasc,Bard,Nocturne,Neeko,Lulu,Kennen,0
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Blue,team,Kiwoom DRX,,Ryze,Rumble,Jayce,Rell,Rakan,1
+LOLTMNT01_337859,LCK,2026-02-08 09:55:03,16.02,Red,team,Nongshim RedForce,,Bard,Nocturne,Neeko,Lulu,Kennen,0
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Blue,top,DN SOOPers,Ambessa,Rumble,Varus,Pantheon,Corki,Renekton,1
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Blue,jng,DN SOOPers,Nocturne,Rumble,Varus,Pantheon,Corki,Renekton,1
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Blue,mid,DN SOOPers,Orianna,Rumble,Varus,Pantheon,Corki,Renekton,1
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Blue,bot,DN SOOPers,Yunara,Rumble,Varus,Pantheon,Corki,Renekton,1
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Blue,sup,DN SOOPers,Rakan,Rumble,Varus,Pantheon,Corki,Renekton,1
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Red,top,BNK FEARX,Aurora,Neeko,K'Sante,Gwen,Lulu,Nautilus,0
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Red,jng,BNK FEARX,Jarvan IV,Neeko,K'Sante,Gwen,Lulu,Nautilus,0
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Red,mid,BNK FEARX,Azir,Neeko,K'Sante,Gwen,Lulu,Nautilus,0
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Red,bot,BNK FEARX,Ezreal,Neeko,K'Sante,Gwen,Lulu,Nautilus,0
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Red,sup,BNK FEARX,Bard,Neeko,K'Sante,Gwen,Lulu,Nautilus,0
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Blue,team,DN SOOPers,,Rumble,Varus,Pantheon,Corki,Renekton,1
+LOLTMNT02_352362,LCK,2026-02-12 08:04:05,16.03,Red,team,BNK FEARX,,Neeko,K'Sante,Gwen,Lulu,Nautilus,0
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Blue,top,DN SOOPers,Gnar,Rumble,Varus,Pantheon,Lucian,Lulu,0
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Blue,jng,DN SOOPers,Wukong,Rumble,Varus,Pantheon,Lucian,Lulu,0
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Blue,mid,DN SOOPers,Cassiopeia,Rumble,Varus,Pantheon,Lucian,Lulu,0
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Blue,bot,DN SOOPers,Corki,Rumble,Varus,Pantheon,Lucian,Lulu,0
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Blue,sup,DN SOOPers,Alistar,Rumble,Varus,Pantheon,Lucian,Lulu,0
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Red,top,BNK FEARX,Renekton,Neeko,K'Sante,Vi,Nami,Gwen,1
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Red,jng,BNK FEARX,Lee Sin,Neeko,K'Sante,Vi,Nami,Gwen,1
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Red,mid,BNK FEARX,Ryze,Neeko,K'Sante,Vi,Nami,Gwen,1
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Red,bot,BNK FEARX,Sivir,Neeko,K'Sante,Vi,Nami,Gwen,1
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Red,sup,BNK FEARX,Karma,Neeko,K'Sante,Vi,Nami,Gwen,1
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Blue,team,DN SOOPers,,Rumble,Varus,Pantheon,Lucian,Lulu,0
+LOLTMNT02_351385,LCK,2026-02-12 08:55:20,16.03,Red,team,BNK FEARX,,Neeko,K'Sante,Vi,Nami,Gwen,1
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Blue,top,BNK FEARX,K'Sante,Rumble,Varus,Ziggs,Nautilus,Ashe,1
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Blue,jng,BNK FEARX,Pantheon,Rumble,Varus,Ziggs,Nautilus,Ashe,1
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Blue,mid,BNK FEARX,Ahri,Rumble,Varus,Ziggs,Nautilus,Ashe,1
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Blue,bot,BNK FEARX,Xayah,Rumble,Varus,Ziggs,Nautilus,Ashe,1
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Blue,sup,BNK FEARX,Poppy,Rumble,Varus,Ziggs,Nautilus,Ashe,1
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Red,top,DN SOOPers,Gwen,Lucian,Kennen,Neeko,Renata Glasc,Lulu,0
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Red,jng,DN SOOPers,Vi,Lucian,Kennen,Neeko,Renata Glasc,Lulu,0
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Red,mid,DN SOOPers,Akali,Lucian,Kennen,Neeko,Renata Glasc,Lulu,0
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Red,bot,DN SOOPers,Jhin,Lucian,Kennen,Neeko,Renata Glasc,Lulu,0
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Red,sup,DN SOOPers,Leona,Lucian,Kennen,Neeko,Renata Glasc,Lulu,0
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Blue,team,BNK FEARX,,Rumble,Varus,Ziggs,Nautilus,Ashe,1
+LOLTMNT02_351402,LCK,2026-02-12 09:56:42,16.03,Red,team,DN SOOPers,,Lucian,Kennen,Neeko,Renata Glasc,Lulu,0
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Blue,top,BNK FEARX,Rek'Sai,Rumble,Varus,Yone,Trundle,Jax,0
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Blue,jng,BNK FEARX,Xin Zhao,Rumble,Varus,Yone,Trundle,Jax,0
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Blue,mid,BNK FEARX,Taliyah,Rumble,Varus,Yone,Trundle,Jax,0
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Blue,bot,BNK FEARX,Kalista,Rumble,Varus,Yone,Trundle,Jax,0
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Blue,sup,BNK FEARX,Renata Glasc,Rumble,Varus,Yone,Trundle,Jax,0
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Red,top,DN SOOPers,Zaahen,Lucian,Kennen,Jayce,Galio,Twisted Fate,1
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Red,jng,DN SOOPers,Dr. Mundo,Lucian,Kennen,Jayce,Galio,Twisted Fate,1
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Red,mid,DN SOOPers,Zoe,Lucian,Kennen,Jayce,Galio,Twisted Fate,1
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Red,bot,DN SOOPers,Caitlyn,Lucian,Kennen,Jayce,Galio,Twisted Fate,1
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Red,sup,DN SOOPers,Neeko,Lucian,Kennen,Jayce,Galio,Twisted Fate,1
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Blue,team,BNK FEARX,,Rumble,Varus,Yone,Trundle,Jax,0
+LOLTMNT02_352407,LCK,2026-02-12 10:48:56,16.03,Red,team,DN SOOPers,,Lucian,Kennen,Jayce,Galio,Twisted Fate,1
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Blue,top,DN SOOPers,Jax,Lucian,Varus,Rumble,Naafiri,Malphite,0
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Blue,jng,DN SOOPers,Rammus,Lucian,Varus,Rumble,Naafiri,Malphite,0
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Blue,mid,DN SOOPers,Smolder,Lucian,Varus,Rumble,Naafiri,Malphite,0
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Blue,bot,DN SOOPers,Miss Fortune,Lucian,Varus,Rumble,Naafiri,Malphite,0
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Blue,sup,DN SOOPers,Rell,Lucian,Varus,Rumble,Naafiri,Malphite,0
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Red,top,BNK FEARX,Sion,Ziggs,Yone,Aatrox,Trundle,Jayce,1
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Red,jng,BNK FEARX,Zac,Ziggs,Yone,Aatrox,Trundle,Jayce,1
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Red,mid,BNK FEARX,Galio,Ziggs,Yone,Aatrox,Trundle,Jayce,1
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Red,bot,BNK FEARX,Aphelios,Ziggs,Yone,Aatrox,Trundle,Jayce,1
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Red,sup,BNK FEARX,Thresh,Ziggs,Yone,Aatrox,Trundle,Jayce,1
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Blue,team,DN SOOPers,,Lucian,Varus,Rumble,Naafiri,Malphite,0
+LOLTMNT02_352429,LCK,2026-02-12 11:41:51,16.03,Red,team,BNK FEARX,,Ziggs,Yone,Aatrox,Trundle,Jayce,1
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Blue,top,Dplus Kia,Jayce,Varus,Nocturne,Yunara,Renekton,Gwen,0
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Blue,jng,Dplus Kia,Ambessa,Varus,Nocturne,Yunara,Renekton,Gwen,0
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Blue,mid,Dplus Kia,Azir,Varus,Nocturne,Yunara,Renekton,Gwen,0
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Blue,bot,Dplus Kia,Jhin,Varus,Nocturne,Yunara,Renekton,Gwen,0
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Blue,sup,Dplus Kia,Bard,Varus,Nocturne,Yunara,Renekton,Gwen,0
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Red,top,Kiwoom DRX,Kennen,Jarvan IV,Pantheon,Rumble,Ezreal,Sivir,1
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Red,jng,Kiwoom DRX,Xin Zhao,Jarvan IV,Pantheon,Rumble,Ezreal,Sivir,1
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Red,mid,Kiwoom DRX,Orianna,Jarvan IV,Pantheon,Rumble,Ezreal,Sivir,1
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Red,bot,Kiwoom DRX,Corki,Jarvan IV,Pantheon,Rumble,Ezreal,Sivir,1
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Red,sup,Kiwoom DRX,Nautilus,Jarvan IV,Pantheon,Rumble,Ezreal,Sivir,1
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Blue,team,Dplus Kia,,Varus,Nocturne,Yunara,Renekton,Gwen,0
+LOLTMNT02_352782,LCK,2026-02-13 08:06:47,16.03,Red,team,Kiwoom DRX,,Jarvan IV,Pantheon,Rumble,Ezreal,Sivir,1
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Blue,top,Dplus Kia,Gnar,Varus,Vi,Ryze,Nocturne,Jax,1
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Blue,jng,Dplus Kia,Dr. Mundo,Varus,Vi,Ryze,Nocturne,Jax,1
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Blue,mid,Dplus Kia,Zoe,Varus,Vi,Ryze,Nocturne,Jax,1
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Blue,bot,Dplus Kia,Ashe,Varus,Vi,Ryze,Nocturne,Jax,1
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Blue,sup,Dplus Kia,Seraphine,Varus,Vi,Ryze,Nocturne,Jax,1
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Red,top,Kiwoom DRX,Aurora,Rumble,Jarvan IV,Pantheon,Ahri,Gwen,0
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Red,jng,Kiwoom DRX,Zaahen,Rumble,Jarvan IV,Pantheon,Ahri,Gwen,0
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Red,mid,Kiwoom DRX,Sylas,Rumble,Jarvan IV,Pantheon,Ahri,Gwen,0
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Red,bot,Kiwoom DRX,Yunara,Rumble,Jarvan IV,Pantheon,Ahri,Gwen,0
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Red,sup,Kiwoom DRX,Karma,Rumble,Jarvan IV,Pantheon,Ahri,Gwen,0
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Blue,team,Dplus Kia,,Varus,Vi,Ryze,Nocturne,Jax,1
+LOLTMNT02_352790,LCK,2026-02-13 09:03:09,16.03,Red,team,Kiwoom DRX,,Rumble,Jarvan IV,Pantheon,Ahri,Gwen,0
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Blue,top,Dplus Kia,K'Sante,Neeko,Pantheon,Vi,Rakan,Lee Sin,0
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Blue,jng,Dplus Kia,Nocturne,Neeko,Pantheon,Vi,Rakan,Lee Sin,0
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Blue,mid,Dplus Kia,Viktor,Neeko,Pantheon,Vi,Rakan,Lee Sin,0
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Blue,bot,Dplus Kia,Varus,Neeko,Pantheon,Vi,Rakan,Lee Sin,0
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Blue,sup,Dplus Kia,Alistar,Neeko,Pantheon,Vi,Rakan,Lee Sin,0
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Red,top,Kiwoom DRX,Renekton,Rumble,Gwen,Jarvan IV,Cassiopeia,Anivia,1
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Red,jng,Kiwoom DRX,Olaf,Rumble,Gwen,Jarvan IV,Cassiopeia,Anivia,1
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Red,mid,Kiwoom DRX,Ryze,Rumble,Gwen,Jarvan IV,Cassiopeia,Anivia,1
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Red,bot,Kiwoom DRX,Sivir,Rumble,Gwen,Jarvan IV,Cassiopeia,Anivia,1
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Red,sup,Kiwoom DRX,Poppy,Rumble,Gwen,Jarvan IV,Cassiopeia,Anivia,1
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Blue,team,Dplus Kia,,Neeko,Pantheon,Vi,Rakan,Lee Sin,0
+LOLTMNT02_351807,LCK,2026-02-13 10:06:25,16.03,Red,team,Kiwoom DRX,,Rumble,Gwen,Jarvan IV,Cassiopeia,Anivia,1
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Blue,top,Dplus Kia,Jax,Malphite,Neeko,Pantheon,Kai'Sa,Xayah,1
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Blue,jng,Dplus Kia,Vi,Malphite,Neeko,Pantheon,Kai'Sa,Xayah,1
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Blue,mid,Dplus Kia,Taliyah,Malphite,Neeko,Pantheon,Kai'Sa,Xayah,1
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Blue,bot,Dplus Kia,Ziggs,Malphite,Neeko,Pantheon,Kai'Sa,Xayah,1
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Blue,sup,Dplus Kia,Rakan,Malphite,Neeko,Pantheon,Kai'Sa,Xayah,1
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Red,top,Kiwoom DRX,Sion,Rumble,Gwen,Ahri,Lucian,Lulu,0
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Red,jng,Kiwoom DRX,Naafiri,Rumble,Gwen,Ahri,Lucian,Lulu,0
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Red,mid,Kiwoom DRX,Galio,Rumble,Gwen,Ahri,Lucian,Lulu,0
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Red,bot,Kiwoom DRX,Kalista,Rumble,Gwen,Ahri,Lucian,Lulu,0
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Red,sup,Kiwoom DRX,Renata Glasc,Rumble,Gwen,Ahri,Lucian,Lulu,0
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Blue,team,Dplus Kia,,Malphite,Neeko,Pantheon,Kai'Sa,Xayah,1
+LOLTMNT02_352851,LCK,2026-02-13 11:11:59,16.03,Red,team,Kiwoom DRX,,Rumble,Gwen,Ahri,Lucian,Lulu,0
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Blue,top,Dplus Kia,Gwen,Pantheon,Neeko,Yone,Syndra,Wukong,1
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Blue,jng,Dplus Kia,Lee Sin,Pantheon,Neeko,Yone,Syndra,Wukong,1
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Blue,mid,Dplus Kia,Twisted Fate,Pantheon,Neeko,Yone,Syndra,Wukong,1
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Blue,bot,Dplus Kia,Jinx,Pantheon,Neeko,Yone,Syndra,Wukong,1
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Blue,sup,Dplus Kia,Thresh,Pantheon,Neeko,Yone,Syndra,Wukong,1
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Red,top,Kiwoom DRX,Rumble,Jarvan IV,Ahri,Akali,Lucian,Ezreal,0
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Red,jng,Kiwoom DRX,Sejuani,Jarvan IV,Ahri,Akali,Lucian,Ezreal,0
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Red,mid,Kiwoom DRX,Tristana,Jarvan IV,Ahri,Akali,Lucian,Ezreal,0
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Red,bot,Kiwoom DRX,Aphelios,Jarvan IV,Ahri,Akali,Lucian,Ezreal,0
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Red,sup,Kiwoom DRX,Lulu,Jarvan IV,Ahri,Akali,Lucian,Ezreal,0
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Blue,team,Dplus Kia,,Pantheon,Neeko,Yone,Syndra,Wukong,1
+LOLTMNT02_351868,LCK,2026-02-13 12:01:25,16.03,Red,team,Kiwoom DRX,,Jarvan IV,Ahri,Akali,Lucian,Ezreal,0
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Blue,top,Dplus Kia,Ornn,Varus,Yone,Orianna,Sivir,Nautilus,0
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Blue,jng,Dplus Kia,Jarvan IV,Varus,Yone,Orianna,Sivir,Nautilus,0
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Blue,mid,Dplus Kia,Azir,Varus,Yone,Orianna,Sivir,Nautilus,0
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Blue,bot,Dplus Kia,Ezreal,Varus,Yone,Orianna,Sivir,Nautilus,0
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Blue,sup,Dplus Kia,Yuumi,Varus,Yone,Orianna,Sivir,Nautilus,0
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Red,top,Gen.G,Rumble,Neeko,Pantheon,Yunara,Bard,Karma,1
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Red,jng,Gen.G,Vi,Neeko,Pantheon,Yunara,Bard,Karma,1
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Red,mid,Gen.G,Taliyah,Neeko,Pantheon,Yunara,Bard,Karma,1
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Red,bot,Gen.G,Jhin,Neeko,Pantheon,Yunara,Bard,Karma,1
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Red,sup,Gen.G,Rakan,Neeko,Pantheon,Yunara,Bard,Karma,1
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Blue,team,Dplus Kia,,Varus,Yone,Orianna,Sivir,Nautilus,0
+LOLTMNT02_354256,LCK,2026-02-14 08:07:25,16.03,Red,team,Gen.G,,Neeko,Pantheon,Yunara,Bard,Karma,1
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Blue,top,Dplus Kia,Gwen,Aurora,Varus,Anivia,Jax,Nautilus,1
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Blue,jng,Dplus Kia,Wukong,Aurora,Varus,Anivia,Jax,Nautilus,1
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Blue,mid,Dplus Kia,Cassiopeia,Aurora,Varus,Anivia,Jax,Nautilus,1
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Blue,bot,Dplus Kia,Yunara,Aurora,Varus,Anivia,Jax,Nautilus,1
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Blue,sup,Dplus Kia,Lulu,Aurora,Varus,Anivia,Jax,Nautilus,1
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Red,top,Gen.G,Jayce,Ambessa,Orianna,Ryze,LeBlanc,Twisted Fate,0
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Red,jng,Gen.G,Xin Zhao,Ambessa,Orianna,Ryze,LeBlanc,Twisted Fate,0
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Red,mid,Gen.G,Ahri,Ambessa,Orianna,Ryze,LeBlanc,Twisted Fate,0
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Red,bot,Gen.G,Corki,Ambessa,Orianna,Ryze,LeBlanc,Twisted Fate,0
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Red,sup,Gen.G,Nami,Ambessa,Orianna,Ryze,LeBlanc,Twisted Fate,0
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Blue,team,Dplus Kia,,Aurora,Varus,Anivia,Jax,Nautilus,1
+LOLTMNT02_354263,LCK,2026-02-14 09:01:24,16.03,Red,team,Gen.G,,Ambessa,Orianna,Ryze,LeBlanc,Twisted Fate,0
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Blue,top,Dplus Kia,Jax,Varus,Orianna,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Blue,jng,Dplus Kia,Dr. Mundo,Varus,Orianna,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Blue,mid,Dplus Kia,Malzahar,Varus,Orianna,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Blue,bot,Dplus Kia,Ashe,Varus,Orianna,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Blue,sup,Dplus Kia,Seraphine,Varus,Orianna,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Red,top,Gen.G,Zaahen,Neeko,Ambessa,Anivia,Gnar,Viktor,1
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Red,jng,Gen.G,Pantheon,Neeko,Ambessa,Anivia,Gnar,Viktor,1
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Red,mid,Gen.G,Ryze,Neeko,Ambessa,Anivia,Gnar,Viktor,1
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Red,bot,Gen.G,Kalista,Neeko,Ambessa,Anivia,Gnar,Viktor,1
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Red,sup,Gen.G,Renata Glasc,Neeko,Ambessa,Anivia,Gnar,Viktor,1
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Blue,team,Dplus Kia,,Varus,Orianna,Aurora,Nautilus,Blitzcrank,0
+LOLTMNT02_353283,LCK,2026-02-14 10:10:21,16.03,Red,team,Gen.G,,Neeko,Ambessa,Anivia,Gnar,Viktor,1
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Blue,top,Gen.G,Rek'Sai,Neeko,LeBlanc,Ambessa,Lee Sin,Zoe,1
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Blue,jng,Gen.G,Nocturne,Neeko,LeBlanc,Ambessa,Lee Sin,Zoe,1
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Blue,mid,Gen.G,Aurora,Neeko,LeBlanc,Ambessa,Lee Sin,Zoe,1
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Blue,bot,Gen.G,Miss Fortune,Neeko,LeBlanc,Ambessa,Lee Sin,Zoe,1
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Blue,sup,Gen.G,Rell,Neeko,LeBlanc,Ambessa,Lee Sin,Zoe,1
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Red,top,Dplus Kia,Sion,Varus,Orianna,Gnar,Nautilus,Sivir,0
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Red,jng,Dplus Kia,Aatrox,Varus,Orianna,Gnar,Nautilus,Sivir,0
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Red,mid,Dplus Kia,Anivia,Varus,Orianna,Gnar,Nautilus,Sivir,0
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Red,bot,Dplus Kia,Aphelios,Varus,Orianna,Gnar,Nautilus,Sivir,0
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Red,sup,Dplus Kia,Thresh,Varus,Orianna,Gnar,Nautilus,Sivir,0
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Blue,team,Gen.G,,Neeko,LeBlanc,Ambessa,Lee Sin,Zoe,1
+LOLTMNT02_353312,LCK,2026-02-14 11:05:18,16.03,Red,team,Dplus Kia,,Varus,Orianna,Gnar,Nautilus,Sivir,0
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Blue,top,BNK FEARX,Rumble,Bard,Ambessa,Vi,Corki,Miss Fortune,1
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Blue,jng,BNK FEARX,Pantheon,Bard,Ambessa,Vi,Corki,Miss Fortune,1
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Blue,mid,BNK FEARX,Orianna,Bard,Ambessa,Vi,Corki,Miss Fortune,1
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Blue,bot,BNK FEARX,Aphelios,Bard,Ambessa,Vi,Corki,Miss Fortune,1
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Blue,sup,BNK FEARX,Lulu,Bard,Ambessa,Vi,Corki,Miss Fortune,1
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Red,top,T1,Ornn,Yunara,Nocturne,Varus,Lucian,Neeko,0
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Red,jng,T1,Xin Zhao,Yunara,Nocturne,Varus,Lucian,Neeko,0
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Red,mid,T1,Azir,Yunara,Nocturne,Varus,Lucian,Neeko,0
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Red,bot,T1,Jinx,Yunara,Nocturne,Varus,Lucian,Neeko,0
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Red,sup,T1,Thresh,Yunara,Nocturne,Varus,Lucian,Neeko,0
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Blue,team,BNK FEARX,,Bard,Ambessa,Vi,Corki,Miss Fortune,1
+LOLTMNT02_353559,LCK,2026-02-15 08:05:24,16.03,Red,team,T1,,Yunara,Nocturne,Varus,Lucian,Neeko,0
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Blue,top,BNK FEARX,Renekton,Bard,Vi,Ryze,Gnar,Lee Sin,0
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Blue,jng,BNK FEARX,Jarvan IV,Bard,Vi,Ryze,Gnar,Lee Sin,0
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Blue,mid,BNK FEARX,Ahri,Bard,Vi,Ryze,Gnar,Lee Sin,0
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Blue,bot,BNK FEARX,Sivir,Bard,Vi,Ryze,Gnar,Lee Sin,0
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Blue,sup,BNK FEARX,Poppy,Bard,Vi,Ryze,Gnar,Lee Sin,0
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Red,top,T1,Rek'Sai,Wukong,Nocturne,Neeko,Lucian,Yunara,1
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Red,jng,T1,Ambessa,Wukong,Nocturne,Neeko,Lucian,Yunara,1
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Red,mid,T1,Sylas,Wukong,Nocturne,Neeko,Lucian,Yunara,1
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Red,bot,T1,Varus,Wukong,Nocturne,Neeko,Lucian,Yunara,1
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Red,sup,T1,Alistar,Wukong,Nocturne,Neeko,Lucian,Yunara,1
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Blue,team,BNK FEARX,,Bard,Vi,Ryze,Gnar,Lee Sin,0
+LOLTMNT02_353572,LCK,2026-02-15 09:00:12,16.03,Red,team,T1,,Wukong,Nocturne,Neeko,Lucian,Yunara,1
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Blue,top,T1,Kennen,Lucian,Yunara,Vi,Lee Sin,Aurora,0
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Blue,jng,T1,Wukong,Lucian,Yunara,Vi,Lee Sin,Aurora,0
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Blue,mid,T1,Anivia,Lucian,Yunara,Vi,Lee Sin,Aurora,0
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Blue,bot,T1,Jhin,Lucian,Yunara,Vi,Lee Sin,Aurora,0
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Blue,sup,T1,Rakan,Lucian,Yunara,Vi,Lee Sin,Aurora,0
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Red,top,BNK FEARX,Ryze,Bard,Neeko,Nocturne,Nautilus,Karma,1
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Red,jng,BNK FEARX,Maokai,Bard,Neeko,Nocturne,Nautilus,Karma,1
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Red,mid,BNK FEARX,Yone,Bard,Neeko,Nocturne,Nautilus,Karma,1
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Red,bot,BNK FEARX,Ashe,Bard,Neeko,Nocturne,Nautilus,Karma,1
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Red,sup,BNK FEARX,Seraphine,Bard,Neeko,Nocturne,Nautilus,Karma,1
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Blue,team,T1,,Lucian,Yunara,Vi,Lee Sin,Aurora,0
+LOLTMNT02_354619,LCK,2026-02-15 09:56:35,16.03,Red,team,BNK FEARX,,Bard,Neeko,Nocturne,Nautilus,Karma,1
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Blue,top,BNK FEARX,Gnar,Bard,Nocturne,Karma,Lee Sin,Taliyah,1
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Blue,jng,BNK FEARX,Trundle,Bard,Nocturne,Karma,Lee Sin,Taliyah,1
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Blue,mid,BNK FEARX,Twisted Fate,Bard,Nocturne,Karma,Lee Sin,Taliyah,1
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Blue,bot,BNK FEARX,Lucian,Bard,Nocturne,Karma,Lee Sin,Taliyah,1
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Blue,sup,BNK FEARX,Milio,Bard,Nocturne,Karma,Lee Sin,Taliyah,1
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Red,top,T1,Jax,Nami,Vi,Neeko,Dr. Mundo,Jayce,0
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Red,jng,T1,Malphite,Nami,Vi,Neeko,Dr. Mundo,Jayce,0
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Red,mid,T1,Aurora,Nami,Vi,Neeko,Dr. Mundo,Jayce,0
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Red,bot,T1,Yunara,Nami,Vi,Neeko,Dr. Mundo,Jayce,0
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Red,sup,T1,Nautilus,Nami,Vi,Neeko,Dr. Mundo,Jayce,0
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Blue,team,BNK FEARX,,Bard,Nocturne,Karma,Lee Sin,Taliyah,1
+LOLTMNT02_354641,LCK,2026-02-15 10:48:53,16.03,Red,team,T1,,Nami,Vi,Neeko,Dr. Mundo,Jayce,0
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Blue,top,Kiwoom DRX,Ornn,Varus,Neeko,Corki,Kai'Sa,Sivir,0
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Blue,jng,Kiwoom DRX,Ambessa,Varus,Neeko,Corki,Kai'Sa,Sivir,0
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Blue,mid,Kiwoom DRX,Azir,Varus,Neeko,Corki,Kai'Sa,Sivir,0
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Blue,bot,Kiwoom DRX,Ezreal,Varus,Neeko,Corki,Kai'Sa,Sivir,0
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Blue,sup,Kiwoom DRX,Nautilus,Varus,Neeko,Corki,Kai'Sa,Sivir,0
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Red,top,DN SOOPers,Rumble,Bard,Yunara,Nocturne,Lucian,Poppy,1
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Red,jng,DN SOOPers,Pantheon,Bard,Yunara,Nocturne,Lucian,Poppy,1
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Red,mid,DN SOOPers,Orianna,Bard,Yunara,Nocturne,Lucian,Poppy,1
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Red,bot,DN SOOPers,Jhin,Bard,Yunara,Nocturne,Lucian,Poppy,1
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Red,sup,DN SOOPers,Alistar,Bard,Yunara,Nocturne,Lucian,Poppy,1
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Blue,team,Kiwoom DRX,,Varus,Neeko,Corki,Kai'Sa,Sivir,0
+LOLTMNT02_356392,LCK,2026-02-19 08:06:05,16.03,Red,team,DN SOOPers,,Bard,Yunara,Nocturne,Lucian,Poppy,1
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Blue,top,DN SOOPers,Yorick,Bard,Yunara,Ryze,Poppy,Karma,1
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Blue,jng,DN SOOPers,Wukong,Bard,Yunara,Ryze,Poppy,Karma,1
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Blue,mid,DN SOOPers,Ahri,Bard,Yunara,Ryze,Poppy,Karma,1
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Blue,bot,DN SOOPers,Varus,Bard,Yunara,Ryze,Poppy,Karma,1
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Blue,sup,DN SOOPers,Rakan,Bard,Yunara,Ryze,Poppy,Karma,1
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Red,top,Kiwoom DRX,Kennen,Vi,Gwen,Nocturne,Neeko,K'Sante,0
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Red,jng,Kiwoom DRX,Xin Zhao,Vi,Gwen,Nocturne,Neeko,K'Sante,0
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Red,mid,Kiwoom DRX,Aurora,Vi,Gwen,Nocturne,Neeko,K'Sante,0
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Red,bot,Kiwoom DRX,Sivir,Vi,Gwen,Nocturne,Neeko,K'Sante,0
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Red,sup,Kiwoom DRX,Leona,Vi,Gwen,Nocturne,Neeko,K'Sante,0
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Blue,team,DN SOOPers,,Bard,Yunara,Ryze,Poppy,Karma,1
+LOLTMNT02_356399,LCK,2026-02-19 08:59:02,16.03,Red,team,Kiwoom DRX,,Vi,Gwen,Nocturne,Neeko,K'Sante,0
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Blue,top,DN SOOPers,Jax,Bard,Yunara,Cassiopeia,Lucian,Corki,0
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Blue,jng,DN SOOPers,Jarvan IV,Bard,Yunara,Cassiopeia,Lucian,Corki,0
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Blue,mid,DN SOOPers,Ryze,Bard,Yunara,Cassiopeia,Lucian,Corki,0
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Blue,bot,DN SOOPers,Xayah,Bard,Yunara,Cassiopeia,Lucian,Corki,0
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Blue,sup,DN SOOPers,Lulu,Bard,Yunara,Cassiopeia,Lucian,Corki,0
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Red,top,Kiwoom DRX,Gnar,Gwen,Nocturne,Lee Sin,Kalista,Karma,1
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Red,jng,Kiwoom DRX,Vi,Gwen,Nocturne,Lee Sin,Kalista,Karma,1
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Red,mid,Kiwoom DRX,Taliyah,Gwen,Nocturne,Lee Sin,Kalista,Karma,1
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Red,bot,Kiwoom DRX,Kai'Sa,Gwen,Nocturne,Lee Sin,Kalista,Karma,1
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Red,sup,Kiwoom DRX,Neeko,Gwen,Nocturne,Lee Sin,Kalista,Karma,1
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Blue,team,DN SOOPers,,Bard,Yunara,Cassiopeia,Lucian,Corki,0
+LOLTMNT02_355443,LCK,2026-02-19 09:49:11,16.03,Red,team,Kiwoom DRX,,Gwen,Nocturne,Lee Sin,Kalista,Karma,1
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Blue,top,Kiwoom DRX,Jayce,Lee Sin,Nocturne,K'Sante,Yone,Zoe,0
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Blue,jng,Kiwoom DRX,Dr. Mundo,Lee Sin,Nocturne,K'Sante,Yone,Zoe,0
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Blue,mid,Kiwoom DRX,Twisted Fate,Lee Sin,Nocturne,K'Sante,Yone,Zoe,0
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Blue,bot,Kiwoom DRX,Yunara,Lee Sin,Nocturne,K'Sante,Yone,Zoe,0
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Blue,sup,Kiwoom DRX,Karma,Lee Sin,Nocturne,K'Sante,Yone,Zoe,0
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Red,top,DN SOOPers,Renekton,Bard,Nami,Gwen,Poppy,Braum,1
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Red,jng,DN SOOPers,Naafiri,Bard,Nami,Gwen,Poppy,Braum,1
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Red,mid,DN SOOPers,Viktor,Bard,Nami,Gwen,Poppy,Braum,1
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Red,bot,DN SOOPers,Corki,Bard,Nami,Gwen,Poppy,Braum,1
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Red,sup,DN SOOPers,Rell,Bard,Nami,Gwen,Poppy,Braum,1
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Blue,team,Kiwoom DRX,,Lee Sin,Nocturne,K'Sante,Yone,Zoe,0
+LOLTMNT02_355446,LCK,2026-02-19 10:37:09,16.03,Red,team,DN SOOPers,,Bard,Nami,Gwen,Poppy,Braum,1
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Blue,top,DN SOOPers,Gwen,Rumble,Varus,Orianna,Karma,Alistar,0
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Blue,jng,DN SOOPers,Vi,Rumble,Varus,Orianna,Karma,Alistar,0
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Blue,mid,DN SOOPers,Taliyah,Rumble,Varus,Orianna,Karma,Alistar,0
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Blue,bot,DN SOOPers,Corki,Rumble,Varus,Orianna,Karma,Alistar,0
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Blue,sup,DN SOOPers,Nautilus,Rumble,Varus,Orianna,Karma,Alistar,0
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Red,top,Dplus Kia,Ambessa,Neeko,Yunara,Pantheon,Renekton,Nami,1
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Red,jng,Dplus Kia,Xin Zhao,Neeko,Yunara,Pantheon,Renekton,Nami,1
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Red,mid,Dplus Kia,Azir,Neeko,Yunara,Pantheon,Renekton,Nami,1
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Red,bot,Dplus Kia,Ezreal,Neeko,Yunara,Pantheon,Renekton,Nami,1
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Red,sup,Dplus Kia,Leona,Neeko,Yunara,Pantheon,Renekton,Nami,1
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Blue,team,DN SOOPers,,Rumble,Varus,Orianna,Karma,Alistar,0
+LOLTMNT02_356582,LCK,2026-02-20 08:06:25,16.03,Red,team,Dplus Kia,,Neeko,Yunara,Pantheon,Renekton,Nami,1
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Blue,top,Dplus Kia,K'Sante,Orianna,Pantheon,Varus,Jhin,Ashe,1
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Blue,jng,Dplus Kia,Jarvan IV,Orianna,Pantheon,Varus,Jhin,Ashe,1
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Blue,mid,Dplus Kia,Ryze,Orianna,Pantheon,Varus,Jhin,Ashe,1
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Blue,bot,Dplus Kia,Aphelios,Orianna,Pantheon,Varus,Jhin,Ashe,1
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Blue,sup,Dplus Kia,Lulu,Orianna,Pantheon,Varus,Jhin,Ashe,1
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Red,top,DN SOOPers,Rumble,Cassiopeia,Gnar,Yunara,Lucian,Poppy,0
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Red,jng,DN SOOPers,Sejuani,Cassiopeia,Gnar,Yunara,Lucian,Poppy,0
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Red,mid,DN SOOPers,Yone,Cassiopeia,Gnar,Yunara,Lucian,Poppy,0
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Red,bot,DN SOOPers,Kalista,Cassiopeia,Gnar,Yunara,Lucian,Poppy,0
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Red,sup,DN SOOPers,Renata Glasc,Cassiopeia,Gnar,Yunara,Lucian,Poppy,0
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Blue,team,Dplus Kia,,Orianna,Pantheon,Varus,Jhin,Ashe,1
+LOLTMNT02_355631,LCK,2026-02-20 09:07:24,16.03,Red,team,DN SOOPers,,Cassiopeia,Gnar,Yunara,Lucian,Poppy,0
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Blue,top,Dplus Kia,Aurora,Neeko,Yorick,Ahri,Akali,Viktor,0
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Blue,jng,Dplus Kia,Lee Sin,Neeko,Yorick,Ahri,Akali,Viktor,0
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Blue,mid,Dplus Kia,LeBlanc,Neeko,Yorick,Ahri,Akali,Viktor,0
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Blue,bot,Dplus Kia,Jhin,Neeko,Yorick,Ahri,Akali,Viktor,0
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Blue,sup,Dplus Kia,Bard,Neeko,Yorick,Ahri,Akali,Viktor,0
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Red,top,DN SOOPers,Renekton,Orianna,Kennen,Pantheon,Sivir,Gnar,1
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Red,jng,DN SOOPers,Wukong,Orianna,Kennen,Pantheon,Sivir,Gnar,1
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Red,mid,DN SOOPers,Galio,Orianna,Kennen,Pantheon,Sivir,Gnar,1
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Red,bot,DN SOOPers,Varus,Orianna,Kennen,Pantheon,Sivir,Gnar,1
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Red,sup,DN SOOPers,Rakan,Orianna,Kennen,Pantheon,Sivir,Gnar,1
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Blue,team,Dplus Kia,,Neeko,Yorick,Ahri,Akali,Viktor,0
+LOLTMNT02_355637,LCK,2026-02-20 10:07:12,16.03,Red,team,DN SOOPers,,Orianna,Kennen,Pantheon,Sivir,Gnar,1
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Blue,top,DN SOOPers,Kennen,Orianna,Lucian,Pantheon,Yorick,Jayce,0
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Blue,jng,DN SOOPers,Naafiri,Orianna,Lucian,Pantheon,Yorick,Jayce,0
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Blue,mid,DN SOOPers,Viktor,Orianna,Lucian,Pantheon,Yorick,Jayce,0
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Blue,bot,DN SOOPers,Yunara,Orianna,Lucian,Pantheon,Yorick,Jayce,0
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Blue,sup,DN SOOPers,Neeko,Orianna,Lucian,Pantheon,Yorick,Jayce,0
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Red,top,Dplus Kia,Sion,Nocturne,Dr. Mundo,Sylas,Akali,Yasuo,1
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Red,jng,Dplus Kia,Aatrox,Nocturne,Dr. Mundo,Sylas,Akali,Yasuo,1
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Red,mid,Dplus Kia,Ahri,Nocturne,Dr. Mundo,Sylas,Akali,Yasuo,1
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Red,bot,Dplus Kia,Ashe,Nocturne,Dr. Mundo,Sylas,Akali,Yasuo,1
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Red,sup,Dplus Kia,Seraphine,Nocturne,Dr. Mundo,Sylas,Akali,Yasuo,1
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Blue,team,DN SOOPers,,Orianna,Lucian,Pantheon,Yorick,Jayce,0
+LOLTMNT02_356609,LCK,2026-02-20 11:02:23,16.03,Red,team,Dplus Kia,,Nocturne,Dr. Mundo,Sylas,Akali,Yasuo,1
